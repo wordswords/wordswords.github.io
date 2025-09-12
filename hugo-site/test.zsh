@@ -4,5 +4,5 @@ set -e
 set -x
 
 hugo --gc --config ./hugo.yaml
-hugo server --buildDrafts --config ./hugo.yaml --disableFastRender
+hugo server --bind 0.0.0.0 --buildDrafts --config ./hugo.yaml --disableFastRender
 
