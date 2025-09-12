@@ -27,10 +27,9 @@ jobs:
 
     - name: Ls -R
       run: |
-        ls ./hugo-site/themes/
-        cd ./hugo-site/themes
+        mv -f ./hugo-site/* ./
         pwd
-
+        ls -al
 
     - name: Build
       run: hugo build --config ./hugo-site/hugo.yaml --buildDrafts --minify
