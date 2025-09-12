@@ -34,16 +34,12 @@ jobs:
     - name: Build
       run: hugo build --config ./hugo.yaml --buildDrafts --minify
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
-
     - name: Move subdirectory contents to root
       run: |
         shopt -s dotglob
-        rm -f index.html
-        mv ./hugo-site/public/* .
-        rm -rf hugo-site
+        mv ./public ..
+        rm -rf ./*
+        mv -f ../public/ .
+        mv -f ./public/* .
+        rmdir ./public
 
