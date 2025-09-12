@@ -16,6 +16,11 @@ jobs:
       with:
         hugo-version: 'latest'
 
+    - name: Ls -R
+      run: |
+        pwd
+        ls -R ./
+
     - name: Build
       run: hugo build --config ./hugo-site/hugo.yaml --buildDrafts --minify
 
