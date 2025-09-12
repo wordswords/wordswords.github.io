@@ -2,7 +2,6 @@ baseURL: "https://wordswords.github.io/"
 title: DavidCraddock.net
 copyright: "© David Paul Craddock"
 theme: PaperMod
-themeDir: ./hugo-site/themes/
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -12,6 +11,7 @@ buildExpired: true
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+themeDir: ../../../hugo-site/themes/
 
 frontmatter:
   date:
