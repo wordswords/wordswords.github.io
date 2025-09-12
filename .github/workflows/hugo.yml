@@ -46,6 +46,6 @@ jobs:
         mv ./public ..
         rm -rf ./*
         mv -f ../public/ .
-        mv -f ./public/* .../../../
+        mv -f ./public/* ../../../
         rmdir ./public
 
