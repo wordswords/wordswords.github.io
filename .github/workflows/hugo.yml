@@ -40,13 +40,10 @@ jobs:
     - name: Hugo
       run: hugo --config ./hugo.yaml
 
-    - name: Move subdirectory contents to root
-      run: |
-        shopt -s dotglob
-        pwd
-        mv ./public ..
-        rm -rf ./*
-        mv -f ../public/ .
-        mv -f ./public/* ../
-        rmdir ./public
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+
 
