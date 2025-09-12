@@ -8,8 +8,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Remote all web content 
+      run: |
+        rm -f *
+        rm -rf ./public
+        rm -rf ./hugo-site
+
     - name: Checkout repository
       uses: actions/checkout@v4
+      with: 
+        sparse-checkout: 'hugo-site'  # specify the subdirectory to checkout
+        sparse-checkout-cone-mode: false
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
