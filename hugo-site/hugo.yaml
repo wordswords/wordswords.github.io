@@ -2,6 +2,7 @@ baseURL: "https://wordswords.github.io/"
 title: DavidCraddock.net
 copyright: "© David Paul Craddock"
 theme: PaperMod
+themeDir: ./hugo-site/themes/
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
