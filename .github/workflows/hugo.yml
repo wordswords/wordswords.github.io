@@ -31,8 +31,12 @@ jobs:
         pwd
         ls -al
 
+    - name: GC
+      run: hugo --gc --config ./hugo.yaml
+
+
     - name: Build
-      run: hugo build --config ./hugo.yaml --buildDrafts --minify
+      run: hugo --config ./hugo.yaml --buildDrafts --minify
 
     - name: Move subdirectory contents to root
       run: |
