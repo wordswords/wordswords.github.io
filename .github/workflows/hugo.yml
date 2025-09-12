@@ -43,9 +43,10 @@ jobs:
     - name: Move subdirectory contents to root
       run: |
         shopt -s dotglob
+        pwd
         mv ./public ..
         rm -rf ./*
         mv -f ../public/ .
-        mv -f ./public/* ../../../
+        mv -f ./public/* ../
         rmdir ./public
 
