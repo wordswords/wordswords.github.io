@@ -34,9 +34,11 @@ jobs:
     - name: GC
       run: hugo --gc --config ./hugo.yaml
 
-
     - name: Build
-      run: hugo --config ./hugo.yaml --buildDrafts --minify
+      run: hugo build --config ./hugo.yaml --buildDrafts --disableFastRender --minify
+
+    - name: Hugo
+      run: hugo --config ./hugo.yaml
 
     - name: Move subdirectory contents to root
       run: |
