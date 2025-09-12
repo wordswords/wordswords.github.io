@@ -1,7 +1,7 @@
 baseURL: "https://wordswords.github.io/"
 title: DavidCraddock.net
 copyright: "© David Paul Craddock"
-theme: PaperMod
+theme: PaperMod-dpc
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -94,6 +94,9 @@ params:
   comments: true
   enableGitInfo: true
   images: ["/mugshot.png"]
+  social:
+    github: wordswords
+    instagram: djdavidcraddock
 
   profileMode:
     enabled: false
@@ -119,14 +122,6 @@ params:
       </ul>
       <br/>
       <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;" src="/mugshot.png" alt="A mugshot of me">
-
-  socialIcons:
-    - name: github
-      title: My Github
-      url: "https://github.com/wordswords"
-    - name: instagram
-      title: My Instagram
-      url: "https://instagram.com/djdavidcraddock"
 
   assets:
     disableHLJS: true
