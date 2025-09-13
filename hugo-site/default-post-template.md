@@ -21,15 +21,19 @@ author: David Craddock
 etc
 */}}
 
-{{/* This is an image link:
+{{/* This is an image link to an image in the current postslug directory:
 ![image](mobilesetup1.jpg)
+*/}}
+
+{{/* This is an embededd video player for a mp4 video in the current postslug directory:
+{{< video src="my-video" autoplay="true" controls="false" loop="true" >}}
 */}}
 
 {{/* This is a URL link:
 [Description](relative URL or absolute URL for external hostnames)
 */}}
 
-{{/* This is a youtube embed:
+{{/* This is a youtube embed - get the youtube code off of the URL:
 {{< youtube qtIqKaDlqXo >}}
 */}}
 
