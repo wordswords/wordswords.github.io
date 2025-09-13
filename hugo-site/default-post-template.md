@@ -12,6 +12,16 @@ image: /$2
 author: David Craddock
 ---
 
+{{/* Everything uses the Markdown syntax! /*}}
+
+{{/* This is a sub heading:
+
+### <level 3 subheading>
+#### <level 4 subheading>
+
+etc
+*/}}
+
 {{/* This is an image link:
 ![image](mobilesetup1.jpg)
 */}}
@@ -21,6 +31,7 @@ author: David Craddock
 */}}
 
 {{/* **this is bold text** */}}
+{{/* __this is italic text__ */}}
 
 {{/* This is how to do a bullet list:
 
