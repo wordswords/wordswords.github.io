@@ -25,27 +25,30 @@
 {{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
 
-{{ if .Params.og_image }} {{/* if there is a set og_image, use it */}}
-      <meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}"> <!-- use 1.91:1 minimum 1200x630 -->
-{{ else }} {{/* otherwise pick the first matching one on the page */}}
 <meta property="og:image" content="
-    {{ if .Params.featuredImage }}
-      {{ .Params.featuredImage }}
-    {{ else }}
-        {{ with .Resources.GetMatch "*.png" }}
-          {{ .Permalink | absURL }}
-        {{ else }}
-            {{ with .Resources.GetMatch "*.jpeg" }}
+{{ if isset .Params "image" }} {{/* if there is a featured image set for the post, use it */}}
+  {{ .Permalink }}{{ .Params.image }}
+{{ else }} {{/* otherwise pick the first matching one on the page */}}
+  {{ with .Resources.GetMatch "*.png" }}
+      {{ .Permalink | absURL }}
+  {{ else }}
+      {{ with .Resources.GetMatch "*.jpg" }}
+            {{ .Permalink | absURL }}
+      {{ else }}
+          {{ with .Resources.GetMatch "*.jpeg" }}
+                {{ .Permalink | absURL }}
+          {{ else }}
+                {{ with .Resources.GetMatch "*.gif" }}
                   {{ .Permalink | absURL }}
-            {{ else }}
-                {{ with .Resources.GetMatch "*.jpg" }}
-                      {{ .Permalink | absURL }}
+                 {{ else }}
+                    {{/* no images found on post! Return the default site image as the OG image */}}
+                      {{ index .Site.Params.images 0 | absURL }}
                 {{ end }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
-">
+          {{ end }}
+      {{ end }}
+   {{ end }}
 {{ end }}
+">
 
 
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
