@@ -29,6 +29,10 @@ etc
 [Description](relative URL or absolute URL for external hostnames)
 */}}
 
+{{/* This is a youtube embed:
+{{< youtube qtIqKaDlqXo >}}
+*/}}
+
 {{/* **this is bold text** */}}
 {{/* __this is italic text__ */}}
 
