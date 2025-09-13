@@ -24,6 +24,8 @@ jobs:
       with: 
         sparse-checkout: 'hugo-site'  # specify the subdirectory to checkout
         sparse-checkout-cone-mode: false
+        submodules: 'recursive'
+        token: ${{ secrets.PUBLIC_REPO_ACCESS_PAT_TOKEN }}
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
