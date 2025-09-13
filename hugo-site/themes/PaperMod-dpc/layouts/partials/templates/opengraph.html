@@ -25,33 +25,28 @@
 {{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
 
+{{ if .Params.og_image }} {{/* if there is a set og_image, use it */}}
+      <meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}"> <!-- use 1.91:1 minimum 1200x630 -->
+{{ else }} {{/* otherwise pick the first matching one on the page */}}
 <meta property="og:image" content="
     {{ if .Params.featuredImage }}
       {{ .Params.featuredImage }}
     {{ else }}
         {{ with .Resources.GetMatch "*.png" }}
-          {{ .Permalink }}
+          {{ .Permalink | absURL }}
         {{ else }}
             {{ with .Resources.GetMatch "*.jpeg" }}
-              {{ .Permalink }}
+                  {{ .Permalink | absURL }}
             {{ else }}
                 {{ with .Resources.GetMatch "*.jpg" }}
-                  {{ .Permalink }}
+                      {{ .Permalink | absURL }}
                 {{ end }}
             {{ end }}
         {{ end }}
     {{ end }}
 ">
-
-{{ if .Params.og_image }}
-      <meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}"> <!-- use 1.91:1 minimum 1200x630 -->
-{{ else }}
-      {{ if (findRE `(?s)<img.+?>` .Content) }}
-        {{ range $k, $_ := findRE `(?s)<img.+?>` .Content }}{{ if $k }}{{ end }}
-          <meta property="og:image" content="{{ replaceRE `(?s).*src="(.+?)".*` "$1" . | absURL }}">
-        {{ end }}
-      {{ end }}
 {{ end }}
+
 
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
 
