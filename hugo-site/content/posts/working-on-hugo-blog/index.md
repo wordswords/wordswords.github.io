@@ -1,11 +1,7 @@
 ---
-{{/* todays date (NOT automatically generated FILL IT IN */}}
 date: "2025-09-13T02:50:13+00:00"
-{{/* descriptive title that appears on the top of the page and in indexes */}}
 title: Increasing my confidence with Hugo Theming
-{{/* url is /$1/ where $1 is your post slug */}}
 url: /working-on-hugo-blog/
-{{/* featured image /$2 where $2 is the relative image location in the post slug directory, eg /mobilesetup1.jpg */}}
 image: /happyprogrammer.png
 author: David Craddock
 ---

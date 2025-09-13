@@ -1,3 +1,5 @@
+{{/* IMPORTANT: MAKE SURE ALL COMMENTS ARE DELETED BETWEEN THE --- and --- LINES BEFORE BUILDING IN HUGO! */}}
+
 ---
 {{/* todays date (NOT automatically generated FILL IT IN */}}
 date: "2024-02-04T02:48:13+00:00"
