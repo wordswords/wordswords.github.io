@@ -6,6 +6,7 @@ image: /happyprogrammer.png
 author: David Craddock
 ---
 
+
 ![image](happyprogrammer.png)
 
 - I have been recently spending quite a lot of time working on the Hugo blog framework that I use to build all my web content and serve it up in static format.
