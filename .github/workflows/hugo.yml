@@ -38,10 +38,6 @@ jobs:
         pwd
         ls -al
 
-    - name: Checkout submodules
-      run: |
-        git submodule update --init --recursive
-
     - name: GC
       run: hugo --gc --config ./hugo.yaml
 
