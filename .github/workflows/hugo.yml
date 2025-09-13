@@ -30,11 +30,15 @@ jobs:
       with:
         hugo-version: 'latest'
 
-    - name: Ls -R
+    - name: Setup checkout and print diagnostics
       run: |
         mv -f ./hugo-site/* ./
         pwd
         ls -al
+
+    - name: Checkout submodules
+      run: |
+        git submodule update --init --recursive
 
     - name: GC
       run: hugo --gc --config ./hugo.yaml
@@ -44,10 +48,12 @@ jobs:
 
     - name: Setup Pages
       uses: actions/configure-pages@v5
+
     - name: Upload Artifact
       uses: actions/upload-pages-artifact@v4
       with:
         path: './public'
+
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
