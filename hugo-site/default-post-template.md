@@ -13,7 +13,7 @@ author: David Craddock
 
 {{/* Everything uses the Markdown syntax! /*}}
 
-{{/* This is a sub heading:
+{{/* This is a sub heading that will appear in the posts table of contents:
 
 ### <level 3 subheading>
 #### <level 4 subheading>
@@ -35,6 +35,10 @@ etc
 
 {{/* This is a youtube embed - get the youtube code off of the URL:
 {{< youtube qtIqKaDlqXo >}}
+*/}}
+
+{{/* This is an embededd spotify player for a spotify track:
+{{< spotify type="track" id="YOUR_SPOTIFY_TRACK_ID" width="100%" height="80" >}}
 */}}
 
 {{/* **this is bold text** */}}
