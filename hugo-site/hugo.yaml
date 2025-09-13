@@ -148,5 +148,5 @@ services:
   twitter:
     disableInlineCSS: true
   disqus:
-    shortname: david_craddock
+    shortname: davidcraddocknet
 
