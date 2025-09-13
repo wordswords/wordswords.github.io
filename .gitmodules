@@ -1,3 +1,0 @@
-[submodule "PaperMod-dpc"]
-	url = git@github.com:wordswords/PaperMod-dpc.git
-	path = hugo-site/themes/PaperMod-dpc
