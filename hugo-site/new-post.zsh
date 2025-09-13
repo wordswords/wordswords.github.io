@@ -7,6 +7,8 @@ if [ -z "${postslug}" ]; then
     exit 1
 fi
 
+git submodule update --init --recursive
+
 rm -rf content/posts/${postslug}
 rm -rf content/posts/${postslug}.md
 
