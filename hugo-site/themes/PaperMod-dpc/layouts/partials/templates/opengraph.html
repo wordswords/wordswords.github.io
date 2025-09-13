@@ -26,13 +26,17 @@
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
 
 {{ if .Params.featuredImage }}
-  <meta property="og:image" content="{{ .Params.featuredImage }}">
+  <meta property="og:image" content="{{ .RelPermaLink }}{{ .Params.featuredImage }}">
 {{ else }}
-  {{ if (findRE `(?s)<img.+?>` .Content) }}
-    {{ range $k, $_ := findRE `(?s)<img.+?>` .Content }}{{ if $k }}{{ end }}
-      <meta property="og:image" content="{{ replaceRE `(?s).*src="(.+?)".*` "$1" . | absURL }}">
+    {{ with .Resources.GetMatch "*.png" }}
+      {{ .RelPermalink }}
     {{ end }}
-  {{ end }}
+    {{ with .Resources.GetMatch "*.jpeg" }}
+      {{ .RelPermalink }}
+    {{ end }}
+    {{ with .Resources.GetMatch "*.jpg" }}
+      {{ .RelPermalink }}
+    {{ end }}
 {{ end }}
 
 {{ if .Params.og_image }}
