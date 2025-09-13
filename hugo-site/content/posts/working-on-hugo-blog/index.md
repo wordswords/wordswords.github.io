@@ -16,22 +16,3 @@ author: David Craddock
 
 
 
-{{/* This is an image link:
-![image](mobilesetup1.jpg)
-*/}}
-
-{{/* This is a URL link:
-[Description](relative URL or absolute URL for external hostnames)
-*/}}
-
-{{/* **this is bold text** */}}
-
-{{/* This is how to do a bullet list:
-
-- <bullet list title> \- <bullet list description>
-- <bullet list title> \- <bullet list description>
-- <bullet list title> \- <bullet list description>
-- <bullet list title> \- <bullet list description>
-
-*/}}
-
