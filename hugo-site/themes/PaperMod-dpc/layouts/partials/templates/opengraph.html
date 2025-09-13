@@ -25,19 +25,23 @@
 {{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
 
-{{ if .Params.featuredImage }}
-  <meta property="og:image" content="{{ .RelPermaLink }}{{ .Params.featuredImage }}">
-{{ else }}
-    {{ with .Resources.GetMatch "*.png" }}
-      {{ .RelPermalink }}
+<meta property="og:image" content="
+    {{ if .Params.featuredImage }}
+      {{ .Params.featuredImage }}
+    {{ else }}
+        {{ with .Resources.GetMatch "*.png" }}
+          {{ .Permalink }}
+        {{ else }}
+            {{ with .Resources.GetMatch "*.jpeg" }}
+              {{ .Permalink }}
+            {{ else }}
+                {{ with .Resources.GetMatch "*.jpg" }}
+                  {{ .Permalink }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
     {{ end }}
-    {{ with .Resources.GetMatch "*.jpeg" }}
-      {{ .RelPermalink }}
-    {{ end }}
-    {{ with .Resources.GetMatch "*.jpg" }}
-      {{ .RelPermalink }}
-    {{ end }}
-{{ end }}
+">
 
 {{ if .Params.og_image }}
       <meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}"> <!-- use 1.91:1 minimum 1200x630 -->
