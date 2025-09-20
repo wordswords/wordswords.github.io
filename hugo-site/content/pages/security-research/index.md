@@ -89,6 +89,8 @@ I use a separate GUEST wifi network which doesn't have access to any other parts
 
 I have been working with the university of London Worldwide to start up a 'Cyber Security' society with the hope that we can compete with other teams in Hack the Box/CTF competitions. I have been appointed Vice President of this society and we are looking to implement a programme of security events and competitions.
 
+[Our CTF writeups and society homepage is here](https://cybersec-soc-ulgc.github.io/)
+
 ### CCTV and Security Cameras
 
 I am building an open-source CCTV system using cheap old Axis cameras that are out of their supported life. Currently I have tried using Shinobi CCTV but I'm not happy with it, and am looking to move to a different system such as ZoneMinder.
