@@ -1,5 +1,5 @@
 ---
-date: 2025-10-20T48:01+09:00
+date: 2025-10-20T00:00:01+09:00
 title: Moved to Preston
 url: /moved-to-preston
 author: David Craddock
