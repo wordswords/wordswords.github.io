@@ -18,8 +18,6 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 * 1x 1TB SSD
 * 1x 500GB SSD
 * 1x 2.5 TB HDD (storage)
-* 1x Logitech C920 Webcams
-* 1x Logitech C270 Webcam (for video calls)
 * 1x Nvidia 4070 GPU
 * 10Gb/sec fibre optic network card
 * 2x Libredrive flashed LG-WH16NS40 multi-disk optical drivers for ripping Blu-rays, CDs, DVDs and any optical disk with MakeMKV and games for my Plex server and emulators.
@@ -28,12 +26,12 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 
 - ASUS ROG Swift OLED PG32UCDM 32" 4K OLED Monitor with Dolby Vision HDR10 and 240hz refresh
 - 29 inch 'Tate Mode' portrait mode LCD VA 144hz refresh gaming monitor with Gsync
-- Logitech 5.1 surround sound system with 5 speakers and subwoofer
+- 2x Genelec 8020 DPM speakers
 - Logi USB headset with noise cancelling microphone
 - Logitech Key light for web cam calls
 - LogiTech C920 web cam
 - R0de Procaster mic with boom, roll cage and muffler
-- Network cabinet with Mikrotik fibreoptic routers and a Presonus 1824i USB-c sound interface
+- Network cabinet with rack-mounted Mikrotik fibreoptic routers and a Presonus 1824i USB-c sound interface
 
 ### Ergonomic Equipment
 
