@@ -13,7 +13,7 @@ The neighbourhood we're looking at is in South Ribble, so not technically in Pre
 
 It is a very, very nice area with very large, very cheap, very peaceful homes.
 
-Currently we plan to stay here for the foreseeable, with my wife going to start a degree in foreign languages next academic year.
+Currently we plan to stay here for the foreseeable, with my wife going to start a degree in foreign languages next academic year, on the University of Lancashire campus based in Preston.
 
 I have decided not to pursue a PhD, and instead go for a role in industry in Cyber Security, after I finish my masters degree and OSCP, because I need the money :)
 
