@@ -6,48 +6,47 @@ url: /my-work-computer/
 
 ---
 
-![image](wfhdesk.jpg)
-
 This is my work from home setup. I work from home every work day. I use the following equipment:
 
-### Linux Workstation 'study.local'
+## 'Studio.local' - my main PC for WFH
 
-- Ivy Bridge 8 Processor Xeon (16 cores total)
-- 256GB SSD system drive running Kali Linux rolling
-- 1TB moving platter drive
-- 32GB DDR3 RAM
-- 10Gbit/sec fibreoptic network card
-- IBM Lenovo ThinkStation C30 Case and PSU
-- Benq 32" 2560x1440 graphic designers monitor on Amazon Basics extendable desk mount arm
+I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual machine also.
 
-### Equipment shared between the laptops of the companies I work for, and my own workstation
+* 12th Gen i7 CPU
+* 32GB DDR4 RAM
+* 1x NVme M.2 SSD 1TB (system)
+* 1x 1TB SSD
+* 1x 500GB SSD
+* 1x 2.5 TB HDD (storage)
+* 1x Logitech C920 Webcams
+* 1x Logitech C270 Webcam (for video calls)
+* 1x Nvidia 4070 GPU
+* 10Gb/sec fibre optic network card
+* 2x Libredrive flashed LG-WH16NS40 multi-disk optical drivers for ripping Blu-rays, CDs, DVDs and any optical disk with MakeMKV and games for my Plex server and emulators.
 
+### Technical Equipment shared between the laptops of the companies I work for, and my own workstation
+
+- ASUS ROG Swift OLED PG32UCDM 32" 4K OLED Monitor with Dolby Vision HDR10 and 240hz refresh
+- 29 inch 'Tate Mode' portrait mode LCD VA 144hz refresh gaming monitor with Gsync
 - Logitech 5.1 surround sound system with 5 speakers and subwoofer
-- Sony WH-1000XM3 Apt-X HD Noise cancelling headphones with an Avantree Oasis Plus Apt-X HD bluetooth transmitter, so I can listen to any of the music devices on noise cancelling headphones
 - Logi USB headset with noise cancelling microphone
+- Logitech Key light for web cam calls
+- LogiTech C920 web cam
+- R0de Procaster mic with boom, roll cage and muffler
+- Network cabinet with Mikrotik fibreoptic routers and a Presonus 1824i USB-c sound interface
+
+### Ergonomic Equipment
+
+- Flexispot E7Pro Motorised Desk with 2x ergonomic monitor stand arms
+- Flexispot BS14 ergonomic chair with headrest
+- Wooden rocker balance board
+- 360 style balance board
 - Anker vertical mouse
 - Kinesis Freestyle 2 ergonomic keyboard
 - Apple Magic Pad 2 that I've made work with Ubuntu - I use this in preference to the vertical mouse as I've found it much more comfortable in most cases.
-- Logitech Key light for web cam calls
-- LogiTech C920 web cam
 
 ### Other Equipment
 
-- HDMI, network cables, KVM and and USB hookups for 2 additional laptops if needed
-- IKEA Motorized Standing Desk
-- IKEA MARKKUS chair with the armrests removed as they are not adjustable and therefore not ergonomic
-- 3x Honeywell desk fans
-- Ergonomic book stand for textbooks
-- Drinks holder
-- Groot from Guardians of the Galaxy Phone holder
-- Johnny Silverhand Plushie from Cyberpunk 2077
-- Pomodoro timer
-- Standing desk mat for easing long standing experiences
-- XL rocker style wooden balance board
-- XL 360 style wooden balance board
-- Fast Anker USB charger
-- Colour laser printer
+- Brother Black and White Laser Printer
 - Flatbed scanner
-- 1800ml vacuum thermos flask for storing water and keeping it cool (keeps it cool for 24 hours, hot for 12 hours)
-- USB Foot Switch Keyboard Pedal for using with VIM (insert mode/normal mode toggle)
-- Mini fridge for Pepsi Max cans
+- Pomodoro timer
