@@ -24,6 +24,12 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - 10Gb/sec fibre optic network card
 - 2x Libredrive flashed LG-WH16NS40 multi-disk optical drivers for ripping Blu-rays, CDs, DVDs and any optical disk with MakeMKV and games for my Plex server and emulators.
 
+### Keyboard and Mouse
+
+- 8Bitdo Retro Mechanical Keyboard, Bluetooth/2.4G/USB-C Hot Swappable Gaming Keyboard with 87 Keys, Dual Super Buttons and Super Stick for Windows and Android - ISO UK Layout - C64 Edition
+- 8BitDo Retro 18 Mechanical Numpad, Supports Calculator Mode, Bluetooth/2.4G/Wired Numpad for Windows and Android - C64 Edition
+- LOFREE TOUCH PBT Wireless Mouse with USB receiver, Bluetooth, Wired Connection, Rechargeable, 4000 DPI with OLED Screen Compatible with glass surface for Mac Windows PC Notebook/Block Retro White Gray
+
 ### Technical Equipment shared between the laptops of the companies I work for, and my own workstation
 
 - ASUS ROG Swift OLED PG32UCDM gaming monitor ― 32-inch 4K QD-OLED panel, 240Hz, 0.03ms (GTG), G-SYNC compatible, custom heatsink, graphene film, uniform brightness, 99% DCI-P3, True 10-bit, 90 W Type-C
@@ -42,8 +48,6 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Flexispot standing desk mat
 - Wooden rocker balance board
 - 360 style balance board
-- Anker vertical mouse
-- Kinesis Freestyle 2 ergonomic keyboard
 - Apple Magic Pad 2 that I've made work with Ubuntu - I use this in preference to the vertical mouse as I've found it much more comfortable in most cases.
 
 ### Other Equipment
