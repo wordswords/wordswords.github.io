@@ -42,7 +42,7 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 
 ## Security
 
-- TECHALOGIC DC-1. Dual Lens Helmet Camera - The Worlds First Twin Motorcycle Cycle Camera & Horse Riding Camera
+- TECHALOGIC DC-1. Dual Lens Helmet Camera
 - 1x LiteLock X1 Angle-grinder Resistant Bike Locks (Diamond Motorbike Solid Secure Rated)
 - 1x Hiplok DX (Gold Motorbike Solid Secure Rated / Diamond Bicycle Solid Secure Rated)
 - 1x Oxford 'Monster' chain and padlock (Gold Motorbike Solid Secure Rated / Diamond Bicycle Solid Secure Rated)
