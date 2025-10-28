@@ -7,7 +7,9 @@ url: /my-bike/
 
 ![image](bike.jpg)
 
-My wife and I use this as a bike for getting shopping and a general-purpose car replacement, as well as volunteering.
+I use this as a bike for getting shopping and a general-purpose car replacement, as well as volunteering. It has a maximum average power-assisted range of 60 miles on a single charge, assuming the lowest power-assist setting, up to 20 miles per charge for the highest power-assist setting.
+
+I have configured it so that I can move large objects and cargo similar to a small car, and cycle and navigate safely in all weathers.
 
 - Tern 2024 Quick Haul Long D9 Electric Cargo Bike (road legal, top electric-assisted speed 15mph, max. pull 415lbs)
 - Hornit Electric bike horn
