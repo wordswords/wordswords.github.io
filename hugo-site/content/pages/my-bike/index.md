@@ -10,23 +10,48 @@ url: /my-bike/
 My wife and I use this as a bike for getting shopping and a general-purpose car replacement, as well as volunteering.
 
 - Tern 2024 Quick Haul Long D9 Electric Cargo Bike (road legal, top electric-assisted speed 15mph, max. pull 415lbs)
-- Large Eurocrate cargo tray mount
 - Hornit Electric bike horn
 - CatEye AMPP 400 front light
 - Wireless security tag for the key of the Tern immobilisation lock
 - RAM grip quick release handlebar phone holder
 - Bike bell
+- Tern cargo hitch for bike trailers
+
+## Electronic gear linked to cycle computer
+
 - KAROO Hammerhead Cycle Computer
-- SHOKZ OpenRun Bone Conduction Headphones, Open-Ear Bluetooth Sports Earphones with Mic, IP67 Waterproof Wireless Headset for Running and Workout, 8H Playtime, USB-C - Black, Sport headband
-- Garmin VARIKA RTL515 Back light and Rear bike radar
+- Favero Assioma Pro Mx-1 power meter pedals
 - Polar H10 Heart Rate Monitor – ANT Plus, Bluetooth - Waterproof HR Sensor with Chest Strap
+- Garmin VARIKA RTL515 Back light and Rear bike radar
+- SHOKZ OpenRun Bone Conduction Headphones, Open-Ear Bluetooth Sports Earphones with Mic, IP67 Waterproof Wireless Headset for Running and Workout, 8H Playtime, USB-C - Black, Sport headband
+
+## Cargo/Hauling Gear
+
+- 2x 51 litre Tern panniers with supportive Tern cargo deck frame
+- Tern cargo tray
 - Several Eurocrates for hauling cargo
 - Lots of cargo ties for securing cargo while hauling
+- Burley Bike Trailer - Flatbed Cargo Bike Trailer that can be folded up
+- Tern extended stability cargo kickstand
+
+## Emergency Gear (in lockable permanent Tern 'cash' box on bike)
+
+- Military compass
+- Emergency compact bivvy bag
+- Compact fibre towel
+- Complete Cycle tools for changing a tire
+- Puncture repair kit
+- Spare inner tube
+- Penlight flashlight
+- Spare Tern battery charger
+- 5x USB Charger with 5x USB cables for simultaneously charging all portable electric bike accessories from a mains socket
+- Swiss army knife
 
 ## Clothes and Gear
 
 A good set of cycling clothes is essential for comfortable all-weather all-year cycling, even in an area with a relatively 'mild' climate such as Manchester.
 
+- AERTIS gravel cycling shoes with cleats for power meter pedals
 - Fingerless MTB gloves for warmer weather
 - Wraparound anti-glare sun glasses for protection against surface dirt etc
 - Wraparound cycle goggles with different visors
@@ -34,15 +59,15 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 - Light backpack suitable for cycling
 - Thermal 'long johns'
 - Rockbros Heated rechargable motorbike style gloves
-- 2x pairs of rechargable heated glove batteries
-- 2x heated glove battery chargers
+- Luminous yellow winter cycling gloves
 - Shorts with seat padding
 - Leg and arm warmers
 - Rockbros rechargable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
+-
 
 ## Security
 
-- TECHALOGIC DC-1. Dual Lens Helmet Camera
+- TECHALOGIC DC-1. Dual Lens Helmet Camera for recording cycle incidents - records both the front and back
 - 1x LiteLock X1 Angle-grinder Resistant Bike Locks (Diamond Motorbike Solid Secure Rated)
 - 1x Hiplok DX (Gold Motorbike Solid Secure Rated / Diamond Bicycle Solid Secure Rated)
 - 1x Oxford 'Monster' chain and padlock (Gold Motorbike Solid Secure Rated / Diamond Bicycle Solid Secure Rated)
