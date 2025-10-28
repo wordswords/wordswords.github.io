@@ -46,6 +46,7 @@ My wife and I use this as a bike for getting shopping and a general-purpose car 
 - Spare Tern battery charger
 - 5x USB Charger with 5x USB cables for simultaneously charging all portable electric bike accessories from a mains socket
 - Swiss army knife
+- Electric tire pump
 
 ## Clothes and Gear
 
