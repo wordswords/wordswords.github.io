@@ -53,14 +53,12 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 
 - AERTIS gravel cycling shoes with cleats for power meter pedals
 - Fingerless MTB gloves for warmer weather
+- Luminous yellow winter cycling gloves
 - Wraparound anti-glare sun glasses for protection against surface dirt etc
 - Wraparound cycle goggles with different visors
-- Goretex water-resistant high-vis cycle jacket
+- 2x Goretex water-resistant high-vis cycle jackets
 - Light backpack suitable for cycling
 - Thermal 'long johns'
-- Rockbros Heated rechargable motorbike style gloves
-- Luminous yellow winter cycling gloves
-- Shorts with seat padding
 - Leg and arm warmers
 - Rockbros rechargable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
 
