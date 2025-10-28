@@ -1,7 +1,7 @@
 ---
 date: "2024-06-09T22:34:52+00:00"
 guid: https://davidcraddock.net/?page_id=4801
-title: My Electric Bikes
+title: My Electric Cargo Bike
 url: /my-bike/
 ---
 
