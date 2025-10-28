@@ -6,6 +6,7 @@ url: /my-bike/
 ---
 
 ![image](bike.jpg)
+(An outdated picture)
 
 I use this as a bike as a general-purpose car replacement, as well as volunteering and long-distance cycle challenges and trips. It has a maximum average power-assisted range of 60 miles on a single charge, assuming the lowest power-assist setting, up to 20 miles per charge for the highest power-assist setting.
 
