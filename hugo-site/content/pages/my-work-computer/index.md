@@ -13,16 +13,15 @@ This is my work from home setup. I work from home every work day. I use the foll
 I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual machine also.
 
 - Ryzen 7 9800X 3D CPU
-- GIGABYTE B850 AORUS ELITE WIFI7 Motherboard
-- be quiet! Straight Power 12 1000W power supply, ATX 3.0, 80 PLUS Platinum
+- GIGABYTE B850 AORUS ELITE WIFI7 Motherboard with 2.5Gbits/sec internet and on-board Wifi7
+- Be quiet! Straight Power 12 1000W power supply, ATX 3.0, 80 PLUS Platinum
 - Cooler Master MasterAir MA824 Stealth CPU Air Cooler
 - Samsung 990 PRO NVMe M.2 SSD, 4 TB, PCIe 4.0, 7,450 MB/s read, 6,900 MB/s write, Internal SSD
 - Fractal Design North XL Charcoal Black Mesh
 - G.Skill Trident Z5 Neo EXPO RGB 64GB (2x32GB) DDR5 PC5-48000C30 6000MHz
 - ASUS GeForce RTX 4070 12G DUAL EVO OC Gaming Graphics Card - 2550MHz Boost Clock, GDDR6X, PCIe Gen 4, DLSS 3, HDMI 2.1a, 3 x DisplayPort 1.4a (Supports 4K & 8K HDR) * 12th Gen i7 CPU
-- 1x 1TB SSD
+- 1x 1TB SSD that I use as a system drive for legacy reasons
 - 10Gb/sec fibre optic network card
-- 2x Libredrive flashed LG-WH16NS40 multi-disk optical drivers for ripping Blu-rays, CDs, DVDs and any optical disk with MakeMKV and games for my Plex server and emulators.
 
 ### Keyboard and Mouse
 
@@ -39,7 +38,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Logitech Key light for web cam calls
 - LogiTech C920 web cam
 - R0de Procaster mic with boom, roll cage and muffler
-- Network cabinet with rack-mounted Mikrotik fibreoptic routers and a Presonus 1824i USB-c sound interface
+- Network cabinet with rack-mounted Mikrotik fibreoptic 10Gb/sec router, switch and a Presonus 1824i USB-c sound interface that is connected to the PC.
 
 ### Ergonomic Equipment
 
@@ -48,7 +47,9 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Flexispot standing desk mat
 - Wooden rocker balance board
 - 360 style balance board
-- Apple Magic Pad 2 that I've made work with Ubuntu - I use this in preference to the vertical mouse as I've found it much more comfortable in most cases.
+- Fenge Dual Monitor Stand, Monitor Stands Riser for 2 monitors, 42.5 Inch Wood Desk Shelf with Storage Organizer and Cable Management for Office Desk Accessories Black
+- FIFINE Microphone Arm Stand, Boom Arm Stand with Desk Mount Clamp, Screw Adapter, Cable Management, Suspension Scissor Mic Stand for Boom Stick Microphone, for Podcast Streaming Gaming Studio-BM88 (for R0de mic)
+- Quntis Monitor Light bar with RGB Backlight, 40cm Computer Monitor Lamp with Dimmer and Color Temperature, LED Touch Control Gaming Screen Light No Screen Glare and Eye Protection for Home Office
 
 ### Other Equipment
 
