@@ -6,21 +6,14 @@ url: /my-home-network/
 
 ---
 
-- I have a fibre to the house 2Gb/sec connection provided by [BRSK](https://www.brsk.co.uk), who I really recommend. This means that maximum download speeds are 250 megabytes per second, although often this is throttled at the source level.
 - My home network routes at around 2-4gbit/sec between 10gbit/sec DAC fibre connected hosts, and around 2gbit/sec via CAT8 for Thunderbolt 2.5Ggbit/sec laptop network interfaces.
 - We two Ubiquiti wireless APs in a mesh configuration, with seperate SSIDs for 2Ghz, 5Ghz, guest and IOT networks. The guest and IOT networks are isolated from everything else.
 - I use a Mikrotik router which hosts an iperf3 docker container for network testing
-- I have a Google smart home setup with 2x Google Home Mini speakers, 1x Google Home Hub (1st) gen, 1x Google Doorbell, 1x Google Nest Smoke Alarm, 1x Google Nest Thermostat, and 2x Google Nest Cameras.
 - We have a Phillips Hue light source setup, with 5 Hue lights in the Music Studio/Games room, which I set to strobe to music when I do my DJ sets, and setup as a Hue Entertainment Area when I play games/watch films. I also have Hue lights in the study and my bedroom, with dimmers etc.
-- We have a robotic vacuum cleaner which helps Conny around the house. We call it 'Dusterbuster'.
+- We have a robotic vacuum cleaner which helps my wife around the house. We call it 'Dusterbuster'.
 - Wherever possible, all devices have a wired network connection. Wireless is only used as a last resort, to minimise spectrum interference.
 - We use ZeroTier as a VPN so that everything useful is accessible outside the home.
 - My home server runs about 14 docker containerized services of different types, using docker compose. I self-host my own websites (including this one), and a bunch of other services for my friends and family. See my [media library homepage](https://home.davidcraddock.net) which is a kind of 'intranet homepage' for my network.
-
-![image](fast.jpg)
-
-Network diagram accurate as of 12-11-24:
-[![image](networkdiagram.png)](https://davidcraddock.net/my-home-network/networkdiagram.png)
 
 ### Iperf3 Speed Tests
 
@@ -94,11 +87,6 @@ iperf Done.
 ```
 
 ### House Server 'hq.local'
-
-- i3 SandyBridge Quad Core Processor
-- Nvidea 970 GPU
-- 8GB DDR3 RAM
+- TERRAMASTER F6-424 Max NAS Storage - 6Bay Core i5 1235U 10-Cores 12-Threads, 32DDR5 RAM, Dual 10GbE Ports, Network Attached Storage
 - 120GB SSD System Drive running Kali Linux rolling
 - 28TB of storage across moving platter drives
-- Scan.co.uk AV3 Low Noise Soundproofed Case with lots of room for expansion
-- 450W Low noise PSU

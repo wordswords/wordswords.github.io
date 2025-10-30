@@ -17,7 +17,7 @@ I use this setup, along with [my bike](/my-bike/) to work from wherever I want.
 It does kind of turn heads, and I'm aware it may look a little 'over the top' - but it's a very useful setup for me, keeps me healthy, and fits all my requirements.
 
 - **Hercules DG400BB Laptop Stand w/ Bag** \- this portable laptop stand is very sturdy and is designed for mobile DJ use. I find it is excellent in all situations, not just DJ use.
-- **Lenovo Legion 5i - Intel i7 12th gen CPU, 64GB DDR5 RAM, 4TB 4th gen NVME SSD drives, 3070Ti graphics card, 15" 1440p IPS Dolby Vision HDR screen** \- This is my laptop that I've put a lot of money into upgrading.
+- **Lenovo Legion 5i - Intel i7 12th gen CPU, 64GB DDR5 RAM, 4TB in 2x 4th gen NVME SSD drives, 3070Ti graphics card, 15" 1440p IPS Dolby Vision HDR screen** \- This is my laptop that I've put a lot of money into upgrading.
 - **Logitech MK295 Silent Wireless Mouse & Keyboard Combo** \- This is a good mobile keyboard and mouse setup, which I got because I was making too much noise typing at ~100wpm in libraries.
 - **Portable Battery charger** \- A good quality external battery charger which will charge and release charge via USB A and USB C ports
 - **Lenovo Legion 17" Armored Backpack II** \- This is an excellent quality padded laptop bag - by far the best laptop carrying case I've owned. It distributes the weight of my setup properly over my back so I can walk long distances

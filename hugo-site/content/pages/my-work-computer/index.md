@@ -8,7 +8,7 @@ url: /my-work-computer/
 
 This is my work from home setup. I work from home every work day. I use the following equipment:
 
-## 'Studio.local' - my main PC for WFH
+## 'Studio.local' - my main PC for WFH and gaming
 
 I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual machine also.
 
