@@ -12,6 +12,8 @@ I use this as a bike as a general-purpose car replacement, as well as volunteeri
 
 I have configured it so that I can move large objects and cargo similar to a small car, and cycle and navigate safely and comfortably in all weathers, as well as use it as an exercise machine to keep fit and lose weight.
 
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/28235527/latest-rides/ab29994169b04111268e7a80e31a74d9630acd54'></iframe>
+
 - Tern 2024 Quick Haul Long D9 Electric Cargo Bike (road legal, top electric-assisted speed 15mph, max. pull 415lbs)
 - Hornit Electric bike horn
 - CatEye AMPP 400 front light
