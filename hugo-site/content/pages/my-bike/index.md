@@ -44,7 +44,7 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - Tern extended stability cargo kickstand
 
 ![image](cargo.png)
-(Taking some cardboard to the dump)
+(Taking some cardboard to the dump and getting lost along the way)
 
 ## Emergency Gear (in lockable permanent Tern 'cash' box on bike)
 
@@ -74,8 +74,8 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 - Leg and arm warmers
 - Rockbros rechargable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
 
-![image](dnagerousman.png)
-(A dangerous man!)
+![image](dangerousman.png)
+(A dangerous man.)
 
 ## Security
 
