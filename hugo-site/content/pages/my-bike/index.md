@@ -5,14 +5,18 @@ title: My Electric Cargo Bike
 url: /my-bike/
 ---
 
-![image](bike.jpg)
-(My bike)
+![image](cargobikeandtrailer.png)
+(Cargo bike and trailer)
+
 
 I use this as a bike as a general-purpose car replacement, as well as volunteering and long-distance cycle challenges and trips. It has a maximum average power-assisted range of 60 miles on a single charge, assuming the lowest power-assist setting, up to 20 miles per charge for the highest power-assist setting.
 
 I have configured it so that I can move large objects and cargo similar to a small car, and cycle and navigate safely and comfortably in all weathers, as well as use it as an exercise machine to keep fit and lose weight.
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/28235527/latest-rides/ab29994169b04111268e7a80e31a74d9630acd54'></iframe>
+
+![image](bikeontrain.png)
+(Cargo bike on train!)
 
 - Tern 2024 Quick Haul Long D9 Electric Cargo Bike (road legal, top electric-assisted speed 15mph, max. pull 415lbs)
 - Hornit Electric bike horn
@@ -38,6 +42,9 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - Lots of cargo ties for securing cargo while hauling
 - Burley Bike Trailer - Flatbed Cargo Bike Trailer that can be folded up
 - Tern extended stability cargo kickstand
+
+![image](cargo.png)
+(Taking some cardboard to the dump)
 
 ## Emergency Gear (in lockable permanent Tern 'cash' box on bike)
 
@@ -66,6 +73,9 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 - Thermal 'long johns'
 - Leg and arm warmers
 - Rockbros rechargable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
+
+![image](dnagerousman.png)
+(A dangerous man!)
 
 ## Security
 
