@@ -1,5 +1,5 @@
 ---
-date: 2025-13-11T05:06:00+00:00
+date: 2025-11-13T05:06:00+00:00
 title: Straylight Research Ltd
 url: /straylight-research-ltd
 author: David Craddock
