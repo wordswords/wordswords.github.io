@@ -53,15 +53,18 @@ languages:
         - name: Cyber Security
           url: security-research/
           weight: 18
+        - name: AI/ML
+          url: aiml/
+          weight: 19
         - name: Gaming
           url: https://davidcraddock.games
-          weight: 19
+          weight: 20
         - name: Media Collection
           url: https://home.davidcraddock.net
-          weight: 20
+          weight: 21
         - name: DJing
           url: https://davidcraddockaudio.com
-          weight: 21
+          weight: 22
 
 outputs:
   home:
