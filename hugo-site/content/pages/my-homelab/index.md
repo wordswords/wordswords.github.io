@@ -88,5 +88,5 @@ iperf Done.
 
 ### House Server 'hq.local'
 - TERRAMASTER F6-424 Max NAS Storage - 6Bay Core i5 1235U 10-Cores 12-Threads, 32DDR5 RAM, Dual 10GbE Ports, Network Attached Storage
-- 120GB SSD System Drive running Kali Linux rolling
-- 28TB of storage across moving platter drives
+- 500GB Nvme SSD System Drive running Kali Linux rolling
+- 42TB of storage across moving platter drives
