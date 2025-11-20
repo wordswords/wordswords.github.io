@@ -65,6 +65,9 @@ languages:
         - name: DJing
           url: https://davidcraddockaudio.com
           weight: 22
+        - name: My Mastodon Acct
+          url: https://defcon.social/@wordswords
+          weight: 23
 
 outputs:
   home:
@@ -108,6 +111,7 @@ params:
         <li> 🎓 <a href="https://DavidCraddockTutor.com">DavidCraddockTutor.com - <strong>Currently offline due to house move</strong></a></li>
         <li> 🎵 <a href="https://DavidCraddockAudio.com">DavidCraddockAudio.com - <strong>Currently offline due to house move</strong></a></li>
         <li> 🤸 <a href="https://DJDavidCraddock.com">DJDavidCraddock.com - <strong>Currently offline due to house move</strong></a></li>
+        <li> * <a href="https://defcon.social/@wordswords">My Mastodon account at: defcon.social/@wordswords</a></li>
         <li> * <a href="https://github.com/wordswords/dpc-resume/blob/master/CV.pdf">My CV/Resume</a></li>
         <li> * <a href="https://github.com/wordswords">My Github (wordswords)</a></li>
         <li> * <a href="https://cybersec-soc-ulgc.github.io/">University of London Cyber Security Society (which I help out with)</a></li>
