@@ -5,6 +5,9 @@ title: Security Research
 url: /security-research/
 ---
 
+To send a secure message to me:
+<a href="https://signal.me/#eu/FGj1fhavN9i4L0WBNyyH_cs-2NuFIfAPXMFDy3ZrEwT5jqS4pBZDl4-nk9QV91eY">Use my Signal username: granddesigns.79</a>
+
 ![image](2600.jpg)
 
 * I am currently familiarising myself with tools to implement cyber security solutions.
