@@ -6,25 +6,16 @@ url: /my-mobile-laptop-setup/
 image: /mobilesetup3.jpg
 author: David Craddock
 ---
-![image](mobilesetup1.jpg)
-![image](mobilesetup2.jpg)
-![image](mobilesetup3.jpg)
-![image](mobilesetup4.jpg)
-![image](mobilesetup5.jpg)
 
-I use this setup, along with [my bike](/my-bike/) to work from wherever I want.
-
-It does kind of turn heads, and I'm aware it may look a little 'over the top' - but it's a very useful setup for me, keeps me healthy, and fits all my requirements.
+I use this setup plus [my e-bike](https://davidcraddock.net/my-bike) to work from university libraries, public libraries, and in the summer, from a portable camping table in parks, nature reserves etc.
 
 - **Hercules DG400BB Laptop Stand w/ Bag** \- this portable laptop stand is very sturdy and is designed for mobile DJ use. I find it is excellent in all situations, not just DJ use.
 - **Lenovo Legion 5i - Intel i7 12th gen CPU, 64GB DDR5 RAM, 4TB in 2x 4th gen NVME SSD drives, 3070Ti graphics card, 15" 1440p IPS Dolby Vision HDR screen** \- This is my laptop that I've put a lot of money into upgrading.
 - **Logitech MK295 Silent Wireless Mouse & Keyboard Combo** \- This is a good mobile keyboard and mouse setup, which I got because I was making too much noise typing at ~100wpm in libraries.
 - **Portable Battery charger** \- A good quality external battery charger which will charge and release charge via USB A and USB C ports
 - **Lenovo Legion 17" Armored Backpack II** \- This is an excellent quality padded laptop bag - by far the best laptop carrying case I've owned. It distributes the weight of my setup properly over my back so I can walk long distances
-- **Sony Xperia 1 V Android mobile** \- This is a top of the line media phone which I've had for a while now and am very happy with. I often use it as a mobile hotspot for the laptop. It is waterproof.
+- **Google Pixel 7 Pro running GrapheneOS** \- This is a top of the line phone which runs GrapheneOS for extra security.
 - **Sony MX1000 Mk3 wireless headphones** \- This is a top of the line HDAC/Apt-X HD wireless noise cancelling headphones. They work well with my laptop and my phone.
-- **Rock Cloud Portable Camping Table** - This table will hold up to 25KG which is more than enough for my laptop setup.
-- **LUXJET Portable Folding Stool** - this telescopic stool is rated up to 180KG and is very compact when folded up.
 - **750ml vacuum thermos flask** \- This fits in a pocket on the side of my laptop bag, and is usually enough unless it's a very hot day.
 - **Pro-plus caffiene pills** \- My lifestyle means I am tired sometimes, and I don't drink tea or coffee, so I always keep some of these in my wallet if I need to walk home, for example.
 - **SanDisk 1TB Extreme Portable SSD, USB-C USB 3.2 Gen 2, External NVMe Solid State Drive** \- This is very useful for transferring large file collections to and from other peoples computers, and is very small for carrying.
