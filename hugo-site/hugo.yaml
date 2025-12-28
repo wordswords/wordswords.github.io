@@ -59,15 +59,9 @@ languages:
         - name: Gaming
           url: https://davidcraddock.games
           weight: 20
-        - name: Media Collection
-          url: https://home.davidcraddock.net
-          weight: 21
-        - name: DJing
-          url: https://davidcraddockaudio.com
-          weight: 22
         - name: My Mastodon Acct
           url: https://defcon.social/@wordswords
-          weight: 23
+          weight: 21
 
 outputs:
   home:
@@ -108,9 +102,6 @@ params:
       <ul>
         <li> 🎮 <a href="https://DavidCraddock.Games">DavidCraddock.Games</a></li>
         <li> 📖 <a href="https://DavidCraddockReads.com">DavidCraddockReads.com</a></li>
-        <li> 🎓 <a href="https://DavidCraddockTutor.com">DavidCraddockTutor.com - <strong>Currently offline due to house move</strong></a></li>
-        <li> 🎵 <a href="https://DavidCraddockAudio.com">DavidCraddockAudio.com - <strong>Currently offline due to house move</strong></a></li>
-        <li> 🤸 <a href="https://DJDavidCraddock.com">DJDavidCraddock.com - <strong>Currently offline due to house move</strong></a></li>
         <li> * <a href="https://defcon.social/@wordswords">My Mastodon account at: defcon.social/@wordswords</a></li>
         <li> * <a href="https://github.com/wordswords/dpc-resume/blob/master/CV.pdf">My CV/Resume</a></li>
         <li> * <a href="https://github.com/wordswords">My Github (wordswords)</a></li>
