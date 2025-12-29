@@ -59,9 +59,12 @@ languages:
         - name: Gaming
           url: https://davidcraddock.games
           weight: 20
+        - name: Reading
+          url: https://davidcraddockreads.com
+          weight: 21
         - name: My Mastodon Acct
           url: https://defcon.social/@wordswords
-          weight: 21
+          weight: 22
 
 outputs:
   home:
