@@ -1,6 +1,6 @@
 ---
 date: 2026-01-13T02:48:13+00:00
-title:
+title: What have I been up to?
 url: /update-on-projects-2026
 author: David Craddock
 ---
