@@ -69,3 +69,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Brother Black and White Laser Printer
 - Flatbed scanner
 - Pomodoro timer
+
+### Morale/Gaming Equipment
+
+- See (My dedicated gaming site)[https://davidcraddock.games].
