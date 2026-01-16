@@ -5,6 +5,20 @@ title: My Work Computer
 url: /my-work-computer/
 
 ---
+![image](fullroomview.jpg)
+(Full Room View)
+
+![image](deskview.jpg)
+(Desk worktop)
+
+![image](belowdeskview.jpg)
+(Below the desk)
+
+![image](leftdeskclockview.jpg)
+(Left of the desk)
+
+![image](gamingkallax.jpg)
+(The gaming/morale shelves)
 
 This is my work from home setup. I work from home every work day. I use the following equipment:
 
@@ -35,7 +49,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - 2x Genelec 8020 DPM speakers
 - Logi USB headset with noise cancelling microphone
 - Logitech Key light for web cam calls
-- LogiTech C920 web cam
+- Elegato Facecam 1080p HDR Digital SLR Webcam
 - R0de Procaster mic with boom, roll cage and muffler
 - Presonus 1824i USB-c sound interface that is connected to the PC.
 
@@ -46,7 +60,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Flexispot standing desk mat
 - Wooden rocker balance board
 - 360 style balance board
-- Fenge Dual Monitor Stand
+- Fenge Dual Monitor Riser and Storage
 - FIFINE Microphone Arm Stand
 - Quntis Monitor Light bar with RGB Backlight, 40cm Computer Monitor Lamp with Dimmer and Color Temperature
 
