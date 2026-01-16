@@ -72,4 +72,4 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 
 ### Morale/Gaming Equipment
 
-- See (My dedicated gaming site)[https://davidcraddock.games].
+- See [My dedicated gaming site](https://davidcraddock.games).
