@@ -28,16 +28,16 @@ Security goals:
 * Automated weekly security updates using bash scripting to upgrade all Mikrotik devices, Opnsense, Debian server and all Windows 11 PCs (via remote SSH access and Powershell scripts).
 * Automated weekly backups of all crucial files (both system and data) on all devices, including Mikrotik, Windows PC, Debian server, Opnsense box.
 * Advertising, analytics, malware and tracker blocking on the DNS level for all the network.
-* Hardened Mikrotik and Linux server configurations, with minimal ports listening, and firewalls correctly enabled.
+* Hardened Mikrotik, PC and Linux server configurations, with minimal ports listening, and firewalls correctly enabled, in a 'zero trust' assumptional design.
 
 Network services run:
 
 * Plex Media Server, Tautalini and Kometa services.
 * Full arrserver suite.
 * A simple web server running an intranet home page, with automated inventories generated of all types of stored media, including file counts, data used and paths.
-* Checkrr, a media file checker and fixer.
+* Checkrr, a media file checker and fixer running on all media files daily.
 * 2x Calibre-web libraries for ebooks and comics, and associated metadata correcting and cataloguing helpers. These are accessible wirelessly by my e-reader devices.
-* Several Samba mounts for different types of content (audio, video, ebooks etc) that automatically get imported by scripts.
+* Several Samba mounts for ingress of different types of content (audio, video, ebooks etc) that automatically get imported to the file server libraries by scripts.
 * Samba mount for a huge collection of retro gaming and arcade ROMs that are playable remotely by my gaming PC.
 * NextDNS for DNS-level blocking and anonymous and secure DNS lookups.
 * HomeAssistant that controls smart home IoT devices.
