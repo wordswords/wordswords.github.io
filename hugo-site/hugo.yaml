@@ -65,7 +65,9 @@ languages:
         - name: My Mastodon Acct
           url: https://defcon.social/@wordswords
           weight: 22
-
+        - name: RSS Feed
+          url: https://davidcraddock.net/index.xml
+          weight: 24
 outputs:
   home:
     - HTML
