@@ -24,6 +24,8 @@ Security goals:
 * Zero ports open to the internet.
 * Software-defined VPN remote access to the network only.
 * Suricata IDS collecting data continually with a large ruleset to flag any suspicious traffic.
+* Wazuh SIEM monitoring with agents on all possible network connected clients.
+* Two internal DNS servers on the LAN forwarding any requests to NextDNS servers via DNS over TLS.. so that the ISP hardware never notices any unencrypted DNS requests which it could snoop on.
 * Anonymising VPN connections to exit nodes in other countries for private traffic.
 * Automated weekly security updates using bash scripting to upgrade all Mikrotik devices, Opnsense, Debian server and all Windows 11 PCs (via remote SSH access and Powershell scripts).
 * Automated weekly backups of all crucial files (both system and data) on all devices, including Mikrotik, Windows PC, Debian server, Opnsense box.
@@ -41,6 +43,9 @@ Network services run:
 * Samba mount for a huge collection of retro gaming and arcade ROMs that are playable remotely by my gaming PC.
 * NextDNS for DNS-level blocking and anonymous and secure DNS lookups.
 * HomeAssistant that controls smart home IoT devices.
+* Unbound DNS server forwarding all DNS requests recieved on port 53 of the Opnsense server to NextDNS servers using DNS over SSL.
+* NextDNS server on the Linux server forwarding all DNS requests recieved on port 53 of the Linux server to NextDNS servers using DNS over SSL.
+
 
 Services run on the server:
 
