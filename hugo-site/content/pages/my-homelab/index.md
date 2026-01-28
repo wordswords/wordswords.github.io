@@ -10,8 +10,9 @@ I have built a 10Gb/second network in my home in a network cabinet.
 
 Hardware:
 
-* I use a Mikrotik router and Mikrotik switch to route at 10Gb/sec speeds, and 2x Mikrotik wifi APs and a Ubiquiti wifi AP in a mesh mode.
+* I use a Mikrotik router and Mikrotik switch to route at 10Gb/sec speeds, and 2x Ubiquiti wifi 7 APs in mesh mode.
 * I have a Protecli custom network interface fanless PC that runs Opnsense with Suricata IDS that monitors all traffic to and from the internet on my network.
+* I have a ZigBee to IP adaptor which allows me to interface the HomeAssistant setup with low cost ZigBee buttons etc.
 * A 6 bay 48TB NAS Linux server that runs Debian, and hosts around 20 services, mostly using docker compose.
 * A couple of Windows 11 PCs which I use day-to-day.
 * Several tablets, e-readers and smart phones.
@@ -19,7 +20,6 @@ Hardware:
 
 Security goals:
 
-* No double NAT.
 * No static IP.
 * Zero ports open to the internet.
 * Software-defined VPN remote access to the network only.
@@ -42,10 +42,11 @@ Network services run:
 * Several Samba mounts for ingress of different types of content (audio, video, ebooks etc) that automatically get imported to the file server libraries by scripts.
 * Samba mount for a huge collection of retro gaming and arcade ROMs that are playable remotely by my gaming PC.
 * NextDNS for DNS-level blocking and anonymous and secure DNS lookups.
-* HomeAssistant that controls smart home IoT devices.
+* HomeAssistant that controls smart home IoT devices, with a IP to ZigBee adaptor.
 * Unbound DNS server forwarding all DNS requests recieved on port 53 of the Opnsense server to NextDNS servers using DNS over SSL.
 * NextDNS server on the Linux server forwarding all DNS requests recieved on port 53 of the Linux server to NextDNS servers using DNS over SSL.
-
+* Wazuh SIEM accessible from the LAN.
+* Ubiquiti Unifi Controller.
 
 Services run on the server:
 
