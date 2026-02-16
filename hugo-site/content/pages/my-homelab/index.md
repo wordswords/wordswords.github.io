@@ -5,7 +5,7 @@ title: My Homelab
 url: /my-home-network/
 ---
 
-![image](networkcabinet.png)
+![image](networkcabinet.jpg)
 (Network cabinet)
 
 I have built a 10Gb/second network in my home in a network cabinet.
