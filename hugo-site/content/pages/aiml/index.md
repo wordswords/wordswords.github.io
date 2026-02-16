@@ -5,6 +5,10 @@ title: My studies and work in AI/ML
 url: /aiml
 ---
 
+![image](aiml.png)
+(AI/ML Jupyter Workbook)
+
+
 I hold a joint honours degree in Computer Science and Artificial Intelligence from the University of Sussex, although I graduated over 20 years ago, so the AI knowledge I was taught is no longer very uptodate!
 
 I have therefore signed up for a 7 month certificate at Imperial College London where I will be updating my knowledge on AI and ML, including learning about LLMs.
