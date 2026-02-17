@@ -21,9 +21,9 @@ author: David Craddock
 
 ### Remove Tracking
 
-* The more my internet behaviour is tracked, the more personalisation takes place, and the better the adverts and internet social media algorithms become at distracting my attention.
+The more my internet behaviour is tracked, the more personalisation takes place, and the better the adverts and internet social media algorithms become at distracting my attention.
 
-Therefore, I use these privacy-enhancing technologies to help reduce internet tracking.
+Therefore, I use these privacy-enhancing technologies to help reduce internet tracking:
 
 * [Firefox](https://www.firefox.com/en-GB/?utm_campaign=SET_DEFAULT_BROWSER) - Firefox easily provides the most customisable privacy settings.
 * [Cookie Consent Plugin](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) - This further automatically reduces personalisation by denying tracking cookies automatically.
