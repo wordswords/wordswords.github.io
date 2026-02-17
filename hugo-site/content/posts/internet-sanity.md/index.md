@@ -8,6 +8,7 @@ author: David Craddock
 ![image](enoughinternet.jpg)
 
 I have a lot of problems personally with '[doomscrolling](https://www.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230209)' habits, and getting suckered into arguing in social media sites.
+
 I honestly believe that the internet is actively BAD for our wellbeing, UNLESS we use it properly.
 
 Most people do not know how to use it properly.
@@ -78,7 +79,7 @@ I find myself interacting a lot with individuals online that could REALLY benefi
 
 I also find that a lot of people that use the internet unhealthily are probably undiagnosed neurodiverse - or if they ARE diagnosed neurodiverse, they are not aware of how it affects their online behaviour.
 
-### Read Cyberpsychology
+### Read Cyber Psychology
 
 I have found that reading insights into the academic field of "Cyber Psychology", the fledgling discipline of how we interact and behave online, can be a fascinating reminder that EVERYONE behaves differently online, and how to avoid the most obvious traps to fall into.
 
