@@ -28,7 +28,7 @@ Therefore, I use these privacy-enhancing technologies to help reduce internet tr
 * [Firefox](https://www.firefox.com/en-GB/?utm_campaign=SET_DEFAULT_BROWSER) - Firefox easily provides the most customisable privacy settings.
 * [Cookie Consent Plugin](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) - This further automatically reduces personalisation by denying tracking cookies automatically.
 * [VPN](https://www.privateinternetaccess.com/) - I use Private Internet Access frequently to reduce personalisation and increase privacy.
-* [Extreme Privacy: What It Takes to Disappear](https://www.amazon.co.uk/dp/B0DCJN61GF).
+* [Insights from this book: Extreme Privacy: What It Takes to Disappear](https://www.amazon.co.uk/dp/B0DCJN61GF).
 * [Insights from this 'Privacy Guides' Website](https://www.privacyguides.org/en/tools/).
 
 ### Limit Social Media
