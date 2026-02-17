@@ -21,7 +21,7 @@ author: David Craddock
 
 ### Remove Tracking
 
-* The more my internet behaviour is tracked, the more personalisation takes place - the better adverts and internet social media algorithms become at distracting my attention.
+* The more my internet behaviour is tracked, the more personalisation takes place, and the better the adverts and internet social media algorithms become at distracting my attention.
 
 Therefore, I use these privacy-enhancing technologies to help reduce internet tracking.
 
