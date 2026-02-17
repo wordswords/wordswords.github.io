@@ -5,6 +5,8 @@ url: /maintaining-internet-sanity/
 author: David Craddock
 ---
 
+![image](enoughinternet.jpg)
+
 I have a lot of problems personally with '[doomscrolling](https://www.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230209)' habits, and getting suckered into arguing in social media sites.
 I honestly believe that the internet is actively BAD for our wellbeing, UNLESS we use it properly.
 
