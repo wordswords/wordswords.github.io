@@ -23,13 +23,13 @@ author: David Craddock
 
 * The more my internet behaviour is tracked, the more personalisation takes place - the better adverts and internet social media algorithms become at distracting my attention.
 
-Therefore I use these privacy-enhancing technologies to help reduce internet tracking.
+Therefore, I use these privacy-enhancing technologies to help reduce internet tracking.
 
 * [Firefox](https://www.firefox.com/en-GB/?utm_campaign=SET_DEFAULT_BROWSER) - Firefox easily provides the most customisable privacy settings.
 * [Cookie Consent Plugin](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) - This further automatically reduces personalisation by denying tracking cookies automatically.
 * [VPN](https://www.privateinternetaccess.com/) - I use Private Internet Access frequently to reduce personalisation and increase privacy.
-* [Extreme Privacy: What It Takes to Disappear](https://www.amazon.co.uk/dp/B0DCJN61GF)
-* [Insights from this 'Privacy Guides' Website](https://www.privacyguides.org/en/tools/)
+* [Extreme Privacy: What It Takes to Disappear](https://www.amazon.co.uk/dp/B0DCJN61GF).
+* [Insights from this 'Privacy Guides' Website](https://www.privacyguides.org/en/tools/).
 
 ### Limit Social Media
 
@@ -39,15 +39,15 @@ Therefore I use these privacy-enhancing technologies to help reduce internet tra
 
 * I use RSS feeds in preference to email and social media sites because it is much easier to isolate the content from the advertising noise, and to keep on top of.
 
-* I use [this RSS feed reader](https://addons.mozilla.org/en-US/firefox/addon/smart-rss-reader/)
-* I use [this RSS app](https://rss.app) to convert normal internet sources into RSS feeds
+* I use [this RSS feed reader](https://addons.mozilla.org/en-US/firefox/addon/smart-rss-reader/).
+* I use [this RSS app](https://rss.app) to convert normal internet sources into RSS feeds.
 
 ### Avoid video and picture content
 
 * There is nothing so distracting or 'noisy' as video or picture content. You end up watching something for at least a minute before you even know whether it will be useful or not, and you cannot 'skip ahead' or 'speed read' or check references easily.
 
-* I use GenAI tools to convert videos into transcriptions that I can more easily read through them
-* I use [UBlock Origin](https://ublockorigin.com/) to skip YouTube adverts
+* I use GenAI tools to convert videos into transcriptions that I can more easily read through them.
+* I use [UBlock Origin](https://ublockorigin.com/) to skip YouTube adverts.
 
 ### Screen Breaks
 
@@ -63,7 +63,7 @@ Therefore I use these privacy-enhancing technologies to help reduce internet tra
 
 * Regular exercise improves almost everything related to cognition, focus and wellbeing.
 
-* I find that when something online has made me angry, really angry, the absolute best thing to do for me is to get away from the screen and to lift some weights for 5-10 minutes. After that, I always return much calmer.
+* I find that when something online has made me angry, really furious, the absolute best thing to do for me is to get away from the screen and to lift some weights for 5-10 minutes. After that, I always return much calmer.
 
 ### Reading
 
@@ -71,7 +71,7 @@ Therefore I use these privacy-enhancing technologies to help reduce internet tra
 
 ### Spending time daily with supportive friends
 
-* I find it ESSENTIAL to spend a least some time, every day, in conversations with supportive friends. I have cultivated a supportive friendship network that exists entirely outside of 'the screen' and my social media presence, and if I don't maintain this, I inevitably suffer.
+* I find it ESSENTIAL to spend at least some time, every day, in conversations with supportive friends. I have cultivated a supportive friendship network that exists outside of 'the screen' and my social media presence, and if I don't maintain this, I inevitably suffer.
 
 ### Consider Counselling
 
