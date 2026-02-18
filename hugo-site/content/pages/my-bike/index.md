@@ -25,6 +25,8 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - RAM grip quick release handlebar phone holder
 - Bike bell
 - Tern cargo hitch for bike trailers
+- E-Cargo Bike Tires
+- Road Bike Winter Studded Tires
 
 ## Electronic gear linked to cycle computer
 
@@ -45,6 +47,9 @@ I have configured it so that I can move large objects and cargo similar to a sma
 
 ![image](cargo.png)
 (Taking some cardboard to the dump and getting lost along the way)
+
+![image](hillbike.jpg)
+(On top of a hill somewhere in the South Ribble..)
 
 ## Emergency Gear (in lockable permanent Tern 'cash' box on bike)
 
