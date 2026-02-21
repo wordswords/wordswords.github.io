@@ -7,6 +7,8 @@ image: /mobilesetup3.jpg
 author: David Craddock
 ---
 
+![image](mobilesetup7.png)
+
 I use this setup plus [my e-bike](https://davidcraddock.net/my-bike) to work from university libraries, public libraries, and in the summer, from a portable camping table in parks, nature reserves etc.
 
 - **Hercules DG400BB Laptop Stand w/ Bag** \- this portable laptop stand is very sturdy and is designed for mobile DJ use. I find it is excellent in all situations, not just DJ use.
@@ -23,3 +25,4 @@ I use this setup plus [my e-bike](https://davidcraddock.net/my-bike) to work fro
 - **Octopus style USB cable adaptor** \- Can be used for any connection between standard USB A, USB C, micro USB and lightening. It's very useful for connecting to other peoples devices.
 - **USB C privacy guards** \- Allows me to plug into a USB C port and block data transfer, so I can charge my phone from other peoples computers without worrying about data transfer.
 
+![image](mobilesetup6.png)
