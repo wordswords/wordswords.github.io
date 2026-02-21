@@ -10,7 +10,7 @@ url: /my-home-network/
 
 I have built a 10Gb/second network in my home in a network cabinet.
 
-Hardware:
+### Hardware:
 
 * I use a Mikrotik router and Mikrotik switch to route at 10Gb/sec speeds, and 2x Ubiquiti wifi 7 APs in mesh mode.
 * I have a Protecli custom network interface fanless PC that runs Opnsense with Suricata IDS that monitors all traffic to and from the internet on my network.
@@ -24,7 +24,7 @@ Hardware:
 * Many IoT and smart home devices.
 * 4K HDR 43" Sony TV with 5.1 Dolby Surround Sound system, able to stream films/TV from the Plex server.
 
-Security goals:
+### Security goals:
 
 * No static IP.
 * No unpatched devices allowed on network, enforced by automated patching.
@@ -41,7 +41,10 @@ Security goals:
 * Hardened Mikrotik, PC, mobile devices, and Linux server configurations, with minimal ports listening, and firewalls correctly enabled, in a 'zero trust' assumptional design.
 * SIEM real-time alerting for threat and vulnerability discovery, with regularly updated CVE scanning on agents.
 
-Network services run:
+![image](wifi7.png)
+(Gaming PC wifi 7 speed)
+
+### Network services run:
 
 * Plex Media Server (accessible remotely), Tautalini and Kometa services.
 * Full arrserver suite (except Whisparr).
@@ -57,7 +60,7 @@ Network services run:
 * Wazuh SIEM accessible from the LAN.
 * Ubiquiti Unifi Controller.
 
-Services run on the server:
+### Services run on the server:
 
 * Thor APT AV professional malware scanner running fully automated weekly runs.
 * Weekly fully automated Borg backup runs.
