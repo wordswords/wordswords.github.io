@@ -6,7 +6,7 @@ image: /$2
 author: David Craddock
 ---
 
-We absolutely LOVE where we have moved to, very nearly Chorley, in the Lancashire countryside.
+We absolutely LOVE where we have moved to, very near Chorley, in the Lancashire countryside.
 
 The problem is, we are not like our neighbours. I regularly wear light-adaptive designer glasses, and a huge elaborate leather 'cyberpunk style' jacket. My wife regularly wears J-pop hoodies, wears sunglasses when she goes out as she has light sensitivity, is German, and has a lot of piercings. We are in our 40s.
 
