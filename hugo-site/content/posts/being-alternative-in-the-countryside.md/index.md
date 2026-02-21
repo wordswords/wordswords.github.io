@@ -6,7 +6,7 @@ image: /$2
 author: David Craddock
 ---
 
-![image](shadesmeconny.jpg)
+![image](statue.png)
 
 We absolutely LOVE where we have moved to, very near Chorley, in the Lancashire countryside.
 
@@ -29,3 +29,4 @@ So we hope to be able to stay here. I honestly think we stick out quite painfull
 Who knows. I really hope to be proven wrong, because I love it here.
 
 
+![image](shadesmeconny.jpg)
