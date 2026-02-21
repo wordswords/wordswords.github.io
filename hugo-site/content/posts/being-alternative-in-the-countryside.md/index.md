@@ -1,10 +1,12 @@
 ---
 date: 2026-02-21T21:10:13+00:00
 title: Being Alternative In the Countryside
-url: /$1/
+url: /being-alternative-in-the-countryside/
 image: /$2
 author: David Craddock
 ---
+
+![image](shadesmeconny.jpg)
 
 We absolutely LOVE where we have moved to, very near Chorley, in the Lancashire countryside.
 
