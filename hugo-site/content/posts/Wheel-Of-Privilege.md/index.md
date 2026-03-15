@@ -1,5 +1,5 @@
 ---
-date: 2026-15-03T20:38:13+00:00
+date: 2026-03-15T20:38:13+00:00
 title: Wheel of Privilege
 url: /$1/
 image: /$2

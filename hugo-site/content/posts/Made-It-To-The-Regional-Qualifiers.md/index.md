@@ -1,5 +1,5 @@
 ---
-date: 2026-04-03T19:02:13+00:00
+date: 2026-03-04T19:02:13+00:00
 title: The UOLWW Team made it to the Regional Qualifiers!
 url: /uolww-region-qualifiers/
 author: David Craddock
