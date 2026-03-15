@@ -1,7 +1,7 @@
 ---
 date: 2026-03-15T20:38:13+00:00
 title: Wheel of Privilege
-url: /$1/
+url: /wheel-of-privilege/
 image: /$2
 author: David Craddock
 ---
