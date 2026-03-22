@@ -8,7 +8,30 @@ url: /my-home-network/
 ![image](networkcabinet.jpg)
 (Network cabinet)
 
-I have built a 10Gb/second network in my home in a network cabinet.
+It is my opinion that every security professional 'worth their salt' should have a homelab.
+
+Therefore, I have built a 10Gb/second network in my home in a network cabinet. It has taught me a lot of networking, IT and cyber security skills. A network diagram can be provided under certain circumstances, e.g. job interviews.
+
+Here are the details:
+
+### Security and Design goals:
+
+* No static IP.
+* Minimise exfiltration of personal data assets to big tech companies to train their own AI systems at my expense - try and make sure no sensitive data leaves the network.
+* No unpatched devices allowed on network, enforced by automated patching.
+* No out of security updates period devices allowed on the network, enforced by VLAN segregation, guest network, and MAC filtering.
+* Zero ports open to the internet.
+* Software-defined VPN remote access to the network only.
+* Suricata IDS collecting data continually with a large ruleset to flag any suspicious traffic.
+* Wazuh SIEM monitoring with agents on all possible network connected clients.
+* Two internal DNS servers on the LAN forwarding any requests to NextDNS servers via DNS over TLS.. so that the ISP hardware never notices any unencrypted DNS requests which it could snoop on.
+* Anonymising VPN connections to exit nodes in other countries for private traffic.
+* Automated weekly security updates using bash scripting to upgrade all Mikrotik devices, Opnsense, Debian server and all Windows 11 PCs (via remote SSH access and Powershell scripts).
+* Automated weekly backups of all crucial files (both system and data) on all devices, including Mikrotik, Windows PC, Debian server, Opnsense box.
+* Advertising, analytics, malware and tracker blocking on the DNS level for all the network.
+* Hardened Mikrotik, PC, mobile devices, and Linux server configurations, with minimal ports listening, and firewalls correctly enabled, in a ‘zero trust’ assumptional design.
+* SIEM real-time alerting for threat and vulnerability discovery, with regularly updated CVE scanning on agents.
+* Hardened Windows 11 setup, with in-built AI features removed with W11Debloat, web caches automatically regularly shredded using Bleechbit, and Wazuh clients on all Windows PCs.
 
 ### Hardware:
 
@@ -24,25 +47,8 @@ I have built a 10Gb/second network in my home in a network cabinet.
 * Many IoT and smart home devices.
 * 4K HDR 43" Sony TV with 5.1 Dolby Surround Sound system, able to stream films/TV from the Plex server.
 
-### Security goals:
-
-* No static IP.
-* No unpatched devices allowed on network, enforced by automated patching.
-* No out of security updates period devices allowed on the network, enforced by VLAN segregation, guest network, and MAC filtering.
-* Zero ports open to the internet.
-* Software-defined VPN remote access to the network only.
-* Suricata IDS collecting data continually with a large ruleset to flag any suspicious traffic.
-* Wazuh SIEM monitoring with agents on all possible network connected clients.
-* Two internal DNS servers on the LAN forwarding any requests to NextDNS servers via DNS over TLS.. so that the ISP hardware never notices any unencrypted DNS requests which it could snoop on.
-* Anonymising VPN connections to exit nodes in other countries for private traffic.
-* Automated weekly security updates using bash scripting to upgrade all Mikrotik devices, Opnsense, Debian server and all Windows 11 PCs (via remote SSH access and Powershell scripts).
-* Automated weekly backups of all crucial files (both system and data) on all devices, including Mikrotik, Windows PC, Debian server, Opnsense box.
-* Advertising, analytics, malware and tracker blocking on the DNS level for all the network.
-* Hardened Mikrotik, PC, mobile devices, and Linux server configurations, with minimal ports listening, and firewalls correctly enabled, in a 'zero trust' assumptional design.
-* SIEM real-time alerting for threat and vulnerability discovery, with regularly updated CVE scanning on agents.
-
-![image](wifi7.png)
 (Gaming PC wifi 7 speed)
+![image](wifi7.png)
 
 ### Network services run:
 
