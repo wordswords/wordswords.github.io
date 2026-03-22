@@ -35,7 +35,7 @@ Here are the details:
 
 ### Hardware:
 
-* I use a Mikrotik router and Mikrotik switch to route at 10Gb/sec speeds, and 2x Ubiquiti wifi 7 APs in mesh mode.
+* I use a Mikrotik router and Mikrotik switch to route at 10Gb/sec speeds, and 3x Ubiquiti wifi 7 APs in mesh mode.
 * I have a Protecli custom network interface fanless PC that runs Opnsense with Suricata IDS that monitors all traffic to and from the internet on my network.
 * I have a ZigBee to IP adaptor which allows me to interface the HomeAssistant setup with low cost ZigBee buttons etc.
 * A 6 bay 48TB NAS Linux server that runs Debian, and hosts around 20 services, mostly using docker compose.
