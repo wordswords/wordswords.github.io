@@ -55,6 +55,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 
 ### Ergonomic Equipment
 
+- Maksone Under Desk Treadmill
 - Flexispot E7Pro Motorised Standing Desk
 - Flexispot BS14 ergonomic chair with headrest
 - Flexispot standing desk mat
@@ -62,7 +63,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - 360 style balance board
 - Fenge Dual Monitor Riser and Storage
 - FIFINE Microphone Arm Stand
-- Quntis Monitor Light bar with RGB Backlight, 40cm Computer Monitor Lamp with Dimmer and Color Temperature
+- BenQ ScreenBar Halo 2 LED Monitor Light Bar
 
 ### Other Equipment
 
