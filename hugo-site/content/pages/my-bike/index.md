@@ -76,8 +76,8 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 - Light backpack suitable for cycling
 - Thermal 'long johns'
 - Leg and arm warmers
-- Rockbros rechargable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
-- 3x Waterresistent cycling trousers
+- Rockbros rechargeable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
+- 3x Water Resistant cycling trousers
 
 ![image](dangerousman.png)
 (A dangerous man.)
