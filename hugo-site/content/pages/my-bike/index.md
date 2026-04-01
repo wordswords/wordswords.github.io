@@ -8,7 +8,6 @@ url: /my-bike/
 ![image](cargobikeandtrailer.png)
 (Cargo bike and trailer)
 
-
 I use this as a bike as a general-purpose car replacement, as well as volunteering and long-distance cycle challenges and trips. It has a maximum average power-assisted range of 60 miles on a single charge, assuming the lowest power-assist setting, up to 20 miles per charge for the highest power-assist setting.
 
 I have configured it so that I can move large objects and cargo similar to a small car, and cycle and navigate safely and comfortably in all weathers, as well as use it as an exercise machine to keep fit and lose weight.
@@ -21,12 +20,13 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - Tern 2024 Quick Haul Long D9 Electric Cargo Bike (road legal, top electric-assisted speed 15mph, max. pull 415lbs)
 - Hornit Electric bike horn
 - CatEye AMPP 400 front light
-- Wireless security tag for the key of the Tern immobilisation lock
 - RAM grip quick release handlebar phone holder
 - Bike bell
 - Tern cargo hitch for bike trailers
 - E-Cargo Bike Tires
-- Road Bike Winter Studded Tires
+- Road Bike Winter Studded Tires which I keep on all year, just in case of icy weather
+- Telescopic stool for breaks
+- 4x small Vacuum thermos flasks for water/cold liquid
 
 ## Electronic gear linked to cycle computer
 
@@ -38,7 +38,7 @@ I have configured it so that I can move large objects and cargo similar to a sma
 
 ## Cargo/Hauling Gear
 
-- 2x 51 litre Tern panniers with supportive Tern cargo deck frame
+- 2x 51 litre Tern panniers with supportive Tern cargo deck frame, cable tied in
 - Tern cargo tray
 - Several Eurocrates for hauling cargo
 - Lots of cargo ties for securing cargo while hauling
@@ -51,33 +51,33 @@ I have configured it so that I can move large objects and cargo similar to a sma
 ![image](hillbike.jpg)
 (On top of a hill somewhere in the South Ribble..)
 
-## Emergency Gear (in lockable permanent Tern 'cash' box on bike)
+## Emergency Gear
 
-- Military compass
+- Military compass and map of the Lancashire area
 - Emergency compact bivvy bag
 - Compact fibre towel
 - Complete Cycle tools for changing a tire
 - Puncture repair kit
-- Spare inner tube
+- Spare inner tubes
 - Penlight flashlight
 - Spare Tern battery charger
-- 5x USB Charger with 5x USB cables for simultaneously charging all portable electric bike accessories from a mains socket
 - Swiss army knife
 - Electric tire pump
+- First aid kit
+- Retro Nokia 4G Emergency phone and 2x Vodafone PAYG SIMs with £10 each on them
 
 ## Clothes and Gear
 
-A good set of cycling clothes is essential for comfortable all-weather all-year cycling, even in an area with a relatively 'mild' climate such as Manchester.
+A good set of cycling clothes is essential for comfortable all-weather all-year cycling, even in an area with a relatively 'mild' climate such as the North West.
 
-- AERTIS gravel cycling shoes with cleats for power meter pedals
 - Fingerless MTB gloves for warmer weather
 - Luminous yellow winter cycling gloves
-- Wraparound cycle goggles with different visors
 - 2x Goretex water-resistant high-vis cycle jackets
 - Light backpack suitable for cycling
 - Thermal 'long johns'
 - Leg and arm warmers
 - Rockbros rechargable e-bike helmet with built-in (powerful) LED front light with up and down action so not to blind drivers, and rear light
+- 3x Waterresistent cycling trousers
 
 ![image](dangerousman.png)
 (A dangerous man.)
@@ -85,13 +85,12 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 ## Security
 
 - TECHALOGIC DC-1. Dual Lens Helmet Camera for recording cycle incidents - records both the front and back
+- Wearable body cam similar to that which is worn by bouncers and police officers
 - 1x LiteLock X1 Angle-grinder Resistant Bike Locks (Diamond Motorbike Solid Secure Rated)
 - 1x Hiplok DX (Gold Motorbike Solid Secure Rated / Diamond Bicycle Solid Secure Rated)
-- 1x Oxford 'Monster' chain and padlock (Gold Motorbike Solid Secure Rated / Diamond Bicycle Solid Secure Rated)
-- 2x Sheffield Bike stands set in concrete in my garden
-- 2x Oxford ground anchors set in concrete in my garden (Diamond Motorbike Solid Secure Rated)
 - CycleRegister security marking kit
 - Immobilise security marking kit
+- Tile tracker tags on as much as my regular equipment as possible.
 - Insurance. Lots of insurance.
 
 ## Training / Certifications
