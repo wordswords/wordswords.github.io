@@ -62,9 +62,12 @@ languages:
         - name: Reading
           url: https://davidcraddockreads.com
           weight: 21
+        - name: Freelance Work
+          url: https://davidcraddocktutor.com
+          weight: 22
         - name: RSS Feed
           url: https://davidcraddock.net/index.xml
-          weight: 22
+          weight: 23
 outputs:
   home:
     - HTML
@@ -104,6 +107,7 @@ params:
       <ul>
         <li> 🎮 <a href="https://DavidCraddock.Games">DavidCraddock.Games</a></li>
         <li> 📖 <a href="https://DavidCraddockReads.com">DavidCraddockReads.com</a></li>
+        <li> * <a href="https://DavidCraddockTutor.com">DavidCraddockTutor.com - Tutoring and Freelance Work</a></li>
         <li> * <a href="https://defcon.social/@wordswords">My Mastodon account at: defcon.social/@wordswords</a></li>
         <li> * <a href="https://github.com/wordswords/dpc-resume/blob/master/CV.pdf">My CV/Resume</a></li>
         <li> * <a href="https://github.com/wordswords">My Github (wordswords)</a></li>
