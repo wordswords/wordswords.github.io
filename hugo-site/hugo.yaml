@@ -68,6 +68,7 @@ languages:
         - name: RSS Feed
           url: https://davidcraddock.net/index.xml
           weight: 23
+
 outputs:
   home:
     - HTML
