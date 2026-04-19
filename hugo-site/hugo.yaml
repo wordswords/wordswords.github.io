@@ -32,6 +32,9 @@ languages:
       series: series
     menu:
       main:
+        - name: Search
+          url: search/
+          weight: 10
         - name: HomeLab
           url: my-home-network/
           weight: 11
@@ -66,7 +69,7 @@ languages:
           url: https://davidcraddocktutor.com
           weight: 22
         - name: RSS Feed
-          url: https://davidcraddock.net/index.xml
+          url: /index.xml
           weight: 23
 
 outputs:
@@ -119,15 +122,20 @@ params:
       <br/>
       <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;" src="/mugshot.png" alt="A mugshot of me">
 
-assets:
-  disableHLJS: true
-  disableFingerprinting: true
+  socialIcons:
+    - name: instagram
+      title: My Instagram
+      url: "https://instagram.com/djdavidcraddock"
 
-cover:
-  hidden: false
-  hiddenInList: false
-  hiddenInSingle: false
-  linkFullImages: true
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    linkFullImages: true
 
 markup:
   goldmark:
