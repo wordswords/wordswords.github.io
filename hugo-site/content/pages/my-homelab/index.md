@@ -36,9 +36,9 @@ Here are the details:
 ### Hardware:
 
 * I use a Mikrotik router and Mikrotik switch to route at 10Gb/sec speeds, and 3x Ubiquiti wifi 7 APs in mesh mode.
-* I have a Protecli custom network interface fanless PC that runs Opnsense with Suricata IDS that monitors all traffic to and from the internet on my network.
+* I have a Protecli custom network interface fanless PC that runs Opnsense with Suricata IDS that monitors all traffic to and from the internet on my network. - Protecli - VP2440 - 2x 10GbE, 2x 2.5G Port Intel® N150 - Kingston DDR5-5600 SO-DIMM Memory Module - 32GB - 1TB Kingston NVMe NV3-1000G
 * I have a ZigBee to IP adaptor which allows me to interface the HomeAssistant setup with low cost ZigBee buttons etc.
-* A 6 bay 48TB NAS Linux server that runs Debian, and hosts around 20 services, mostly using docker compose.
+* A 6 bay 48TB NAS Linux server that runs Debian, and hosts around 20 services, mostly using docker compose - TERRAMASTER F6-424 Max NAS Storage - 6Bay Core i5 1235U 10-Cores 12-Threads, 32GB DDR5 RAM Dual 10Gb/sec CAT UTP ethernet
 * A couple of Windows 11 PCs which I use day-to-day.
 * E-readers and tablets linked to my calibre libraries.
 * Reolink security cameras linked to HomeAssistant with zero traffic being sent external to the network.
