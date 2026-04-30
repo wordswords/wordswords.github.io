@@ -5,20 +5,11 @@ title: My Work Computer
 url: /my-work-computer/
 
 ---
-![image](fullroomview.jpg)
-(Full Room View)
+![image](desk1.png)
+(Front desk view)
 
-![image](deskview.jpg)
-(Desk worktop)
-
-![image](belowdeskview.jpg)
-(Below the desk)
-
-![image](leftdeskclockview.jpg)
-(Left of the desk)
-
-![image](gamingkallax.jpg)
-(The gaming/morale shelves)
+![image](desk3.jpg)
+(Whole office view)
 
 This is my work from home setup. I work from home every work day. I use the following equipment:
 
