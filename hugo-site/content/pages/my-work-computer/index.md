@@ -32,6 +32,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Topre Realforce UK without numpad
 - 8BitDo Retro 18 Mechanical Numpad, Supports Calculator Mode, Bluetooth/2.4G/Wired Numpad for Windows and Android - C64 Edition
 - LOFREE TOUCH PBT Wireless Mouse with USB receiver, Bluetooth, Wired Connection, Rechargeable, 4000 DPI with OLED Screen Compatible with glass surface for Mac Windows PC Notebook/Block Retro White Gray
+- Elgato Stream Deck Neo - for controlling music playback, and enabling/disabling HDR for gaming.
 
 ### Technical Equipment shared between the laptops of the companies I work for, and my own workstation
 
