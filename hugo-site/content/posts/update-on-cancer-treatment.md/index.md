@@ -1,5 +1,5 @@
 ---
-date: 2026-11-04T20:21:13+00:00
+date: 2026-04-11T20:21:13+00:00
 title: Update on Cancer Treatment - Cured
 url: /updated-on-cancer-treatment-cured/
 image: /$2
