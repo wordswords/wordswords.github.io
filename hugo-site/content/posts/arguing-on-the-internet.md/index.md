@@ -1,5 +1,5 @@
 ---
-date: 2026-03-05T09:10:13+00:00
+date: 2026-05-03T09:10:13+00:00
 title: Why arguing on the internet is often pointless
 url: /why-arguing-on-the-internet-is-often-pointlerss
 author: David Craddock
