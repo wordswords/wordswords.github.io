@@ -17,7 +17,7 @@ This is my work from home setup. I work from home every work day. I use the foll
 
 I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual machine also.
 
-- Ryzen 7 9800X 3D CPU
+- Ryzen 7 9800X3D CPU 8-Core
 - GIGABYTE B850 AORUS ELITE WIFI7 Motherboard with 2.5Gbits/sec internet and on-board Wifi7
 - Be quiet! Straight Power 12 1000W power supply, ATX 3.0, 80 PLUS Platinum
 - Cooler Master MasterAir MA824 Stealth CPU Air Cooler
@@ -25,7 +25,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Fractal Design North XL Charcoal Black Mesh
 - G.Skill Trident Z5 Neo EXPO RGB 64GB (2x32GB) DDR5 PC5-48000C30 6000MHz
 - ASUS GeForce RTX 4070 12G DUAL EVO OC Gaming Graphics Card - 2550MHz Boost Clock, GDDR6X, PCIe Gen 4, DLSS 3, HDMI 2.1a, 3 x DisplayPort 1.4a (Supports 4K & 8K HDR) * 12th Gen i7 CPU
-- 1x 1TB SSD that I use as a system drive for legacy reasons
+- 1x WD Blue SN750 1TB SSD that I use as a system drive for legacy reasons
 
 ### Keyboard and Mouse
 
