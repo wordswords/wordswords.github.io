@@ -6,7 +6,7 @@ url: /security-research/
 ---
 
 To send a secure message to me:
-<a href="https://signal.me/#eu/FGj1fhavN9i4L0WBNyyH_cs-2NuFIfAPXMFDy3ZrEwT5jqS4pBZDl4-nk9QV91eY">Use my Signal username: granddesigns.79</a>
+<a href="https://signal.me/#eu/wMBAjMYf1pZVvDvwtmIogYVIWfNITazJN83decO5mcFaXrilXldJgYaqz9OXK0my">Use my signal username: granddesigns.92</a>
 
 ![image](2600.jpg)
 
