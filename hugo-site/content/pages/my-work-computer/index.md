@@ -31,7 +31,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 
 - Topre Realforce UK without numpad
 - 8BitDo Retro 18 Mechanical Numpad, Supports Calculator Mode, Bluetooth/2.4G/Wired Numpad for Windows and Android - C64 Edition
-- LOFREE TOUCH PBT Wireless Mouse with USB receiver, Bluetooth, Wired Connection, Rechargeable, 4000 DPI with OLED Screen Compatible with glass surface for Mac Windows PC Notebook/Block Retro White Gray
+- Logitch G502X wired USB mouse
 - Elgato Stream Deck Neo - for controlling music playback, and enabling/disabling HDR for gaming.
 
 ### Technical Equipment shared between the laptops of the companies I work for, and my own workstation
@@ -39,10 +39,10 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - ASUS ROG Swift OLED PG32UCDM gaming monitor ― 32-inch 4K QD-OLED panel, 240Hz, 0.03ms (GTG), G-SYNC compatible, custom heatsink, graphene film, uniform brightness, 99% DCI-P3, True 10-bit, 90 W Type-C
 - 29 inch 'Tate Mode' portrait mode LCD VA 144hz refresh gaming monitor with Gsync
 - 2x Genelec 8020 DPM speakers
-- Logi USB headset with noise cancelling microphone
 - Logitech Key light for web cam calls
 - Elegato Facecam 1080p HDR Digital SLR Webcam
 - R0de Procaster mic with boom, roll cage and muffler
+- Logi USB headset with noise cancelling microphone for backup
 - Presonus 1824i USB-c sound interface that is connected to the PC.
 
 ### Ergonomic Equipment
@@ -57,11 +57,13 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - FIFINE Microphone Arm Stand
 - BenQ ScreenBar Halo 2 LED Monitor Light Bar
 
-### Other Equipment
+### Office Equipment
 
-- Brother Black and White Laser Printer
+- Brother Brother HL-L2400DWE Mono Laser Printer - prints on both sides, low maintenance cost
 - Flatbed scanner
+- Fellowes Powershred 12C P4 Cross Cut Home & Home Office Shredder - 11 Sheet, 19 Litre Bin × 1
 - Pomodoro timer
+- Fountain pen
 
 ### Morale/Gaming Equipment
 
