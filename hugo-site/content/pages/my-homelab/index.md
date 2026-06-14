@@ -5,8 +5,8 @@ title: My Homelab
 url: /my-home-network/
 ---
 
-![image](networkcabinet.jpg)
-(Network cabinet)
+![image](networkcabinetopen.jpg)
+(Network cabinet open)
 
 It is my opinion that every security professional 'worth their salt' should have a homelab.
 
@@ -65,6 +65,11 @@ Here are the details:
 * NextDNS server on the Linux server forwarding all DNS requests recieved on port 53 of the Linux server to NextDNS servers using DNS over SSL.
 * Wazuh SIEM accessible from the LAN.
 * Ubiquiti Unifi Controller.
+
+
+![image](cctvscreen.jpg)
+(CCTV monitor)
+
 
 ### Services run on the server:
 
