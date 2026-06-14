@@ -23,18 +23,20 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - RAM grip quick release handlebar phone holder
 - Bike bell
 - Tern cargo hitch for bike trailers
-- E-Cargo Bike Tires
+- E-Cargo Bike Spare Tires
 - Road Bike Winter Studded Tires which I keep on all year, just in case of icy weather
 - Telescopic stool for breaks
 - 4x small Vacuum thermos flasks for water/cold liquid
+- Shimano B05S Disc Brake Pads and Spring Steel Backed Resin (MPQ25)
+- Burgtec Penthouse MK5 Flat Steel Mountain bike Pedals Burgtec Black
 
 ## Electronic gear linked to cycle computer
 
 - KAROO Hammerhead Cycle Computer
-- Favero Assioma Pro Mx-1 power meter pedals
-- Polar H10 Heart Rate Monitor – ANT Plus, Bluetooth - Waterproof HR Sensor with Chest Strap
-- Garmin VARIKA RTL515 Back light and Rear bike radar
+- ANT+ Polar H10 Heart Rate Monitor – ANT Plus, Bluetooth - Waterproof HR Sensor with Chest Strap
+- ANT+ Garmin VARIKA RTL515 Back light and Rear bike radar
 - SHOKZ OpenRun Bone Conduction Headphones, Open-Ear Bluetooth Sports Earphones with Mic, IP67 Waterproof Wireless Headset for Running and Workout, 8H Playtime, USB-C - Black, Sport headband
+- ANT+ bike lights - Trek Ion Pro RT mounted on front bar/Flare RT mounted on rear of helmet
 
 ## Cargo/Hauling Gear
 
@@ -44,6 +46,8 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - Lots of cargo ties for securing cargo while hauling
 - Burley Bike Trailer - Flatbed Cargo Bike Trailer that can be folded up
 - Tern extended stability cargo kickstand
+- Burley Bike Trailer Cargo Bungee Net
+- Bike trailer tires - Schwalbe Marathon Plus HS440 Rigid Tyre - 16 x 1.35, 35-349
 
 ![image](cargo.png)
 (Taking some cardboard to the dump and getting lost along the way)
