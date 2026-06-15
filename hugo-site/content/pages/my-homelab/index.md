@@ -67,9 +67,6 @@ Here are the details:
 * Ubiquiti Unifi Controller.
 
 
-![image](cctvscreen.jpg)
-(CCTV monitor)
-
 
 ### Services run on the server:
 
