@@ -38,13 +38,11 @@ High gain directional antennas with DEAUTH floods can also be used to take out w
 
 I have a [hashmat](https://hashcat.net/hashcat/) password cracker setup that utilises my PC with an Nvidea gaming graphics card. I can use this to attempt to crack wifi handshake hashes with a dictionary attack.
 
-### M5StickC2 running Nemo
+### Mar-X-Auder Mini ESP2
 
-I have a [M5StickC2](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit) running [Nemo firmware](https://github.com/n0xa/m5stick-nemo) which replicates most of the interesting functionality of the Flipper Zero at a tiny fraction of the price.
+I like my Mar-X-Auder Mini ESP2 wireless hacking device - [£40 from AliExpress](https://www.aliexpress.com/item/1005010257257525.html). Open-source and already has most of the cool functionality of Flipper Zero.
 
-I can use it to deauth wifi APs and run captive wifi APs, as well as wifi spam and some pranks around bluetooth and infrared hacking.
-
-It has also taught me a bit about aurdino programming and deploying firmware to a device.
+![image](maruader.jpg)
 
 ### RFID and Smart Card Security
 
