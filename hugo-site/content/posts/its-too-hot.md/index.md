@@ -2,9 +2,11 @@
 date: 2026-07-10T16:37:13+00:00
 title: It's Too Hot.
 url: /$1/
-image: /$2
+image: /thisisfine.jpeg
 author: David Craddock
 ---
+
+![image](thisisfine.jpeg)
 
 We are experiencing our second heatwave of the summer here in the UK, and to be honest, I'm sick of it.
 
@@ -22,4 +24,4 @@ I have joined the Green Party and vote Green for over a year now, but I'm really
 
 Which, as a scientific-minded sort of person, is intensely annoying because there is a clear problem to be solved there, and a clear solution.
 
-
+[!][Imag
