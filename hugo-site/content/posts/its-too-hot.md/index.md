@@ -24,4 +24,3 @@ I have joined the Green Party and vote Green for over a year now, but I'm really
 
 Which, as a scientific-minded sort of person, is intensely annoying because there is a clear problem to be solved there, and a clear solution.
 
-[!][Imag
