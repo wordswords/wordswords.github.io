@@ -16,7 +16,7 @@ Even with all of this, it still requires frequent cold baths and makes both of u
 
 I suppose none of this would matter if I wasn't under immense pressure at the moment to study three courses at the same time.
 
-I know it's not an excuse but it does make me annoyed that no-one really seems to care about climate change.
+I know that's not an excuse but it does make me annoyed that no-one really seems to care about climate change.
 
 I have joined the Green Party and vote Green for over a year now, but I'm really not sure the Green Party will ever get into power, even in a coalition government.
 
