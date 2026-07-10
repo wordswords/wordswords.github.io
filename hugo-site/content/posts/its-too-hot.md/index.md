@@ -1,7 +1,7 @@
 ---
 date: 2026-07-10T16:37:13+00:00
 title: It's Too Hot.
-url: /$1/
+url: /its-too-hot/
 image: /thisisfine.jpeg
 author: David Craddock
 ---
