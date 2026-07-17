@@ -1,14 +1,14 @@
 ---
 date: 2026-07-18T00:30:13+00:00
-title: FHE and MPC and cryptographic optimism!
+title: FHE and MPC and Cryptographic Optimism!
 url: /fhe-and-mpc/
-image: /$2
+image: /fhe.png
 author: David Craddock
 ---
 
-![Image](fhe.jpg)
+![Image](fhe.png)
 
-Interesting learning about FHE - [Fully Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) and MPC - Secure [Multi-Party Computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) in my recent studies with [Royal Holloway, University of London](https://www.royalholloway.ac.uk/research-and-education/subjects/information-security/).
+It has been interesting learning about FHE - [Fully Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) and MPC - Secure [Multi-Party Computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) in my recent studies with [Royal Holloway, University of London](https://www.royalholloway.ac.uk/research-and-education/subjects/information-security/).
 
 Honestly, I think these advances are very exciting. Some people think that cryptography is too academic or inscrutable, but the reality is that it has had the biggest affect on our digital lives.
 
