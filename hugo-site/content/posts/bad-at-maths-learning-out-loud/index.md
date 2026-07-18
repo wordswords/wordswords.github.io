@@ -2,11 +2,11 @@
 date: 2026-07-18T03:48:13+00:00
 title: Learning Maths Again
 url: /learning-maths-again/
-image: /$2
+image: /brain.png
 author: David Craddock
 ---
 
-![Image](brain.png)
+![image](brain.png)
 
 Now that the Cyber Security MSc is out of the way (for now).. the real challenge begins.. the Imperial College Machine Learning/AI certificate.
 
