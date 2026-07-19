@@ -5,6 +5,12 @@ title: My Writing
 url: /my-writing
 ---
 
+{{< figure
+    src="published.jpg"
+    alt="Picture of a framed poem I wrote titled 'Snowflakes'."
+    caption="'Snowflakes'."
+>}}
+
 ![image](published.jpg)
 
 I've always liked writing and have been doing it for a long time. I write a lot for work, and also have written a lot of creative writing.
