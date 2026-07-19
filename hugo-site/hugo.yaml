@@ -32,9 +32,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Search
-          url: search/
-          weight: 10
         - name: HomeLab
           url: my-home-network/
           weight: 11
@@ -44,33 +41,30 @@ languages:
         - name: WFA Setup
           url: my-mobile-laptop-setup/
           weight: 14
-        - name: E-Biking
+        - name: My Wheels
           url: my-bike/
           weight: 15
         - name: vWorkbench
           url: vworkbench/
           weight: 16
-        - name: Writing
+        - name: My Writing
           url: my-writing/
           weight: 17
-        - name: Cyber Security
+        - name: Cyber Security Research
           url: security-research/
           weight: 18
-        - name: AI/ML
+        - name: AI/ML Studies
           url: aiml/
           weight: 19
-        - name: Gaming
+        - name: Gaming Setup
           url: https://davidcraddock.games
           weight: 20
-        - name: Reading
+        - name: Reading Blog
           url: https://davidcraddockreads.com
           weight: 21
-        - name: Freelance Work
+        - name: Freelancing Site
           url: https://davidcraddocktutor.com
           weight: 22
-        - name: RSS Feed
-          url: /index.xml
-          weight: 23
 
 outputs:
   home:
@@ -121,7 +115,9 @@ params:
         <li> * <a href="https://straylightresearch.ai/">Straylight Research Ltd - My own company, working on projects in the intersection between software engineering, Cyber Security and AI/ML</a></li>
       </ul>
       <br/>
-      <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;" src="/mugshot.png" alt="A mugshot of me">
+      <hr />
+      <img loading="lazy" src="/mugshot.png" alt="An impressive picture of my studio setup">
+
 
   socialIcons:
     - name: instagram

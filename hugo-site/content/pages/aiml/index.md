@@ -1,7 +1,7 @@
 ---
 date: "2025-11-18T04:32:00+00:00"
 guid: http://www.davidcraddock.net/aiml
-title: My studies and work in AI/ML
+title: My AI/ML Studies
 url: /aiml
 ---
 

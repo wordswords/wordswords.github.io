@@ -1,7 +1,7 @@
 ---
 date: "2023-12-17T02:13:39+00:00"
 guid: https://davidcraddock.net/?page_id=4287
-title: My Homelab
+title: My Homelab / Home Network Setup
 url: /my-home-network/
 ---
 

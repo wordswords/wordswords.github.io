@@ -1,11 +1,11 @@
 ---
 date: "2024-09-26T17:08:52+00:00"
 guid: https://davidcraddock.net/vworkbench/
-title: vWorkbench
+title: vWorkbench - My Custom Software Development Environment
 url: /vworkbench/
 
 ---
-![image](vworkbench.jpg)
+![image](workbench.png)
 
 "vWorkbench" is my own personal Vim9-based development environment and writing environment that I'm trying to 'spin out' into an open source project that is stable enough, reusable enough and well-documented enough to be used by others.
 
