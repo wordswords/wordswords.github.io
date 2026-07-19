@@ -84,7 +84,7 @@ I use Strava to record journeys for posterity and later analysis, and also to tr
 {{< figure
     src="cargo.png"
     alt="Picture of a Strava logged route map showing me taking some cardboard to the dump and getting lost along the way"
-    caption="Taking some cardboard to the dump and getting lost along the way"
+    caption="Taking some cardboard to the dump and getting lost along the way."
 >}}
 
 
