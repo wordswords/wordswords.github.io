@@ -1,7 +1,7 @@
 ---
 date: "2024-09-26T17:08:52+00:00"
 guid: https://davidcraddock.net/vworkbench/
-title: vWorkbench
+title: vWorkbench - My Custom Software Development Environment
 url: /vworkbench/
 
 ---
