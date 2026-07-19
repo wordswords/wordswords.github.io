@@ -1,7 +1,7 @@
 ---
 date: "2022-12-16T23:06:40+00:00"
 guid: https://davidcraddock.net/?page_id=3423
-title: My Work Computer
+title: My "Work From Home" Setup
 url: /my-work-computer/
 
 ---
