@@ -53,19 +53,19 @@ languages:
         - name: My Writing
           url: my-writing/
           weight: 17
-        - name: Cyber Security
+        - name: Cyber Security Research
           url: security-research/
           weight: 18
-        - name: AI/ML
+        - name: AI/ML Research
           url: aiml/
           weight: 19
-        - name: Gaming
+        - name: Gaming Setup
           url: https://davidcraddock.games
           weight: 20
-        - name: Reading
+        - name: Reading Blog
           url: https://davidcraddockreads.com
           weight: 21
-        - name: Freelance Work
+        - name: Freelancing Site
           url: https://davidcraddocktutor.com
           weight: 22
         - name: RSS Feed
