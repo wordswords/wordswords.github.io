@@ -53,7 +53,7 @@ languages:
         - name: Cyber Security Research
           url: security-research/
           weight: 18
-        - name: AI/ML Research
+        - name: AI/ML Studies
           url: aiml/
           weight: 19
         - name: Gaming Setup
