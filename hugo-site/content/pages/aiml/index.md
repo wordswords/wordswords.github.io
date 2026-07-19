@@ -5,9 +5,6 @@ title: My AI/ML Studies
 url: /aiml
 ---
 
-![image](aiml.png)
-(AI/ML Jupyter Workbook)
-
 {{< figure
     src="aiml.png"
     alt="Picture of a Jupyter Workbook showing me working on a machine learning problem in Python."
