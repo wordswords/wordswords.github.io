@@ -8,6 +8,12 @@ url: /aiml
 ![image](aiml.png)
 (AI/ML Jupyter Workbook)
 
+{{< figure
+    src="aiml.png"
+    alt="Picture of a Jupyter Workbook showing me working on a machine learning problem in Python."
+    caption="AI/ML Jupyter Workbook."
+>}}
+
 
 I hold a joint honours degree in [Computer Science and Artificial Intelligence from the University of Sussex](https://www.sussex.ac.uk/cogs/about), although I graduated over 20 years ago, so the AI knowledge I was taught is no longer very uptodate!
 
