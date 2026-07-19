@@ -5,8 +5,11 @@ title: My Homelab / Home Network Setup
 url: /my-home-network/
 ---
 
-![image](networkcabinetopen.jpg)
-(Network cabinet open)
+{{< figure
+    src="networkcabinetopen.jpg"
+    alt="Picture of my home network cabinet, with the front windowed door open."
+    caption="My home network cabinet."
+>}}
 
 It is my opinion that every security professional 'worth their salt' should have a homelab.
 
@@ -47,8 +50,12 @@ Here are the details:
 * Many IoT and smart home devices.
 * 4K HDR 43" Sony TV with 5.1 Dolby Surround Sound system, able to stream films/TV from the Plex server.
 
-(Gaming PC wifi 7 speed)
-![image](wifi7.png)
+{{< figure
+    src="wifi7.png"
+    alt="Picture of a result of an internet speed test, showing speeds of 600mbits/sec download on my Wifi 7 connection."
+    caption="My gaming PC's Wifi 7 speedtest."
+>}}
+
 
 ### Network services run:
 
