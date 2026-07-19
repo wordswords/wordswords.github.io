@@ -5,7 +5,12 @@ title: vWorkbench - My Custom Software Development Environment
 url: /vworkbench/
 
 ---
-![image](workbench.png)
+{{< figure
+    src="workbench.png"
+    alt="Picture of a woodworkers workbench."
+    caption="A workbench."
+>}}
+
 
 "vWorkbench" is my own personal [Vim9](https://vimhelp.org/)-based development environment and writing environment that I'm trying to 'spin out' into an open source project that is stable enough, reusable enough and well-documented enough to be used by others.
 
