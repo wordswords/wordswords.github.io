@@ -8,7 +8,7 @@ url: /my-bike/
 {{< figure
     src="cargobikeandtrailer.png"
     alt="Picture of my cargo bike and trailer, in a sideways view"
-    caption="My cargo bike and trailer"
+    caption="My cargo bike and trailer."
 >}}
 
 
@@ -105,8 +105,8 @@ I use Strava to record journeys for posterity and later analysis, and also to tr
 
 {{< figure
     src="hillbike.jpg"
-    alt="On top of a hill somewhere in the South Ribble.."
-    caption="On top of a hill somewhere in the South Ribble.."
+    alt="Picture of my cargo bike on top of a hill somewhere in the South Ribble."
+    caption="On top of a hill somewhere in the South Ribble."
 >}}
 
 
@@ -124,7 +124,7 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 
 {{< figure
     src="dangerousman.png"
-    alt="Picture of a man wearing a helmet with a helmet camera that looks slightly silly"
+    alt="Picture of a man (David Craddock) wearing a cycle helmet with a long tubular helmet camera running from the front to back that looks slightly silly."
     caption="A dangerous man."
 >}}
 
