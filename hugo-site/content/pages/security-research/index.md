@@ -46,7 +46,12 @@ I have a [hashmat](https://hashcat.net/hashcat/) password cracker setup that uti
 
 I like my Mar-X-Auder Mini ESP2 wireless hacking device - [£40 from AliExpress](https://www.aliexpress.com/item/1005010257257525.html). Open-source and already has most of the cool functionality of Flipper Zero.
 
-![image](maruader.jpg)
+{{< figure
+    src="maruader.jpg"
+    alt="Picture of the Mar-X-Auder Mini ESP2 wireless hacking device."
+    caption="The Mar-X-Auder Mini ESP2 wireless hacking device."
+>}}
+
 
 ### RFID and Smart Card Security
 
