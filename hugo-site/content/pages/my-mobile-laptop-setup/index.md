@@ -8,6 +8,12 @@ author: David Craddock
 ---
 
 ![image](mobilesetup7.png)
+{{< figure
+    src="mobilesetup7.png"
+    alt="Picture of my e-bike next to a park bench, and my laptop out while I am working on it."
+    caption="Working on a park bench with my mobile office setup."
+>}}
+
 
 I use this setup plus [my e-bike](https://davidcraddock.net/my-bike) to work from university libraries, public libraries, and in the summer, from a portable camping table in parks, nature reserves etc.
 
@@ -25,4 +31,9 @@ I use this setup plus [my e-bike](https://davidcraddock.net/my-bike) to work fro
 - **Octopus style USB cable adaptor** \- Can be used for any connection between standard USB A, USB C, micro USB and lightening. It's very useful for connecting to other peoples devices.
 - **USB C privacy guards** \- Allows me to plug into a USB C port and block data transfer, so I can charge my phone from other peoples computers without worrying about data transfer.
 
-![image](mobilesetup6.png)
+{{< figure
+    src="mobilesetup6.png"
+    alt="Picture of my e-bike next to the Alan Turning legal graffiti memorial in Withington."
+    caption="Being able to work anywhere brings unexpected lunchtime benefits."
+>}}
+
