@@ -67,9 +67,9 @@ I have configured it so that I can move large objects and cargo similar to a sma
 
 ## Software Used
 
-- Strava
-- Komoot
-- Hammerhead Karoo Web interface
+- [Strava](https://www.strava.com/)
+- [Komoot](https://www.komoot.com/)
+- [Hammerhead Karoo Web interface](https://www.hammerhead.io/)
 
 I use Komoot to plan routes, then import them into the Hammerheard Karoo Web interface that syncs the route down to my cycle computer.
 I use Strava to record journeys for posterity and later analysis, and also to try and keep in the habit of keeping going out on the bike.
@@ -123,7 +123,7 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 
 ## Training / Certifications
 
-- I have achieved 'Bikeability Level 3' as an adult, verified in December 2024, which is the most widely accepted form of road-ready cycle training and certification. [Link here](https://www.bikeability.org.uk/). Level 3 focuses in cycling safely in heavy traffic. This qualifies me to hire Electric Cargo Bikes.
+- I have achieved '[Bikeability Level 3](https://www.bikeability.org.uk/)' as an adult, verified in December 2024, which is the most widely accepted form of road-ready cycle training and certification. Level 3 focuses in cycling safely in heavy traffic. This qualifies me to hire Electric Cargo Bikes.
 - I have studied books and Driving Theory test material to learn how to navigate roads and read road signs, approximately to the level of a driving theory test, although I don't officially hold a driving licence.
 - I have been DBS checked and have a clean record.
 - I attended a free 3 hour Cycle Maintaince course organised by the council.
