@@ -32,9 +32,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Search
-          url: search/
-          weight: 10
         - name: HomeLab
           url: my-home-network/
           weight: 11
@@ -68,9 +65,6 @@ languages:
         - name: Freelancing Site
           url: https://davidcraddocktutor.com
           weight: 22
-        - name: RSS Feed
-          url: /index.xml
-          weight: 23
 
 outputs:
   home:
