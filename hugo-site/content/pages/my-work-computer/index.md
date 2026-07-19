@@ -5,11 +5,11 @@ title: My "Work From Home" Setup
 url: /my-work-computer/
 
 ---
-![image](desk1.png)
-(Front desk view)
-
-![image](desk3.jpg)
-(Whole office view)
+{{< figure
+    src="desk1.png"
+    alt="Picture of the front view of my work from home desk."
+    caption="My Work From Home (WFH) Desk."
+>}}
 
 This is my work from home setup. I work from home every work day. I use the following equipment:
 
@@ -44,6 +44,12 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - R0de Procaster mic with boom, roll cage and muffler
 - Logi USB headset with noise cancelling microphone for backup
 - Presonus 1824i USB-c sound interface that is connected to the PC.
+
+{{< figure
+    src="desk3.png"
+    alt="Picture of my whole work from home office."
+    caption="My Work From Home (WFH) Office."
+>}}
 
 ### Ergonomic Equipment
 
