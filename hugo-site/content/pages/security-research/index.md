@@ -8,7 +8,11 @@ url: /security-research/
 To send a secure message to me:
 <a href="https://signal.me/#eu/wMBAjMYf1pZVvDvwtmIogYVIWfNITazJN83decO5mcFaXrilXldJgYaqz9OXK0my">Use my signal username: granddesigns.92</a>
 
-![image](2600.jpg)
+{{< figure
+    src="2600.jpg"
+    alt="A picture of a 'hacker van' with a satellite dish, on the side displaying the logo of the 2600 Hacker Zine."
+    caption="2600."
+>}}
 
 * I am currently familiarising myself with tools to implement cyber security solutions.
 
