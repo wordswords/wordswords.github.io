@@ -5,8 +5,12 @@ title: My Wheels
 url: /my-bike/
 ---
 
-![image](cargobikeandtrailer.png)
-(Cargo bike and trailer)
+{{< figure
+    src="cargobikeandtrailer.png"
+    alt="Picture of my cargo bike and trailer, in a sideways view"
+    caption="My cargo bike and trailer"
+>}}
+
 
 I use this as a bike as a general-purpose car replacement, as well as volunteering and long-distance cycle challenges and trips. It has a maximum average power-assisted range of 60 miles on a single charge, assuming the lowest power-assist setting, up to 20 miles per charge for the highest power-assist setting.
 
@@ -18,8 +22,11 @@ I have configured it so that I can move large objects and cargo similar to a sma
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/28235527/latest-rides/ab29994169b04111268e7a80e31a74d9630acd54'></iframe>
 
-![image](bikeontrain.png)
-(Cargo bike on train!)
+{{< figure
+    src="bikeontrain.png"
+    alt="Picture of my cargo bike on a rail train, looking a bit out of place due to its size"
+    caption="My cargo bike on the train!"
+>}}
 
 - Tern 2024 Quick Haul Long D9 Electric Cargo Bike (road legal, top electric-assisted speed 15mph, max. pull 415lbs)
 - Hornit Electric bike horn
@@ -74,8 +81,12 @@ I have configured it so that I can move large objects and cargo similar to a sma
 I use Komoot to plan routes, then import them into the Hammerheard Karoo Web interface that syncs the route down to my cycle computer.
 I use Strava to record journeys for posterity and later analysis, and also to try and keep in the habit of keeping going out on the bike.
 
-![image](cargo.png)
-(Taking some cardboard to the dump and getting lost along the way)
+{{< figure
+    src="cargo.png"
+    alt="Picture of a Strava logged route map showing me taking some cardboard to the dump and getting lost along the way"
+    caption="Taking some cardboard to the dump and getting lost along the way"
+>}}
+
 
 ## Emergency Gear
 
@@ -92,8 +103,12 @@ I use Strava to record journeys for posterity and later analysis, and also to tr
 - First aid kit
 - Retro Nokia 4G Emergency phone and 2x Vodafone PAYG SIMs with £10 each on them
 
-![image](hillbike.jpg)
-(On top of a hill somewhere in the South Ribble..)
+{{< figure
+    src="hillbike.jpg"
+    alt="On top of a hill somewhere in the South Ribble.."
+    caption="On top of a hill somewhere in the South Ribble.."
+>}}
+
 
 ## Clothes and Gear
 
@@ -107,8 +122,11 @@ A good set of cycling clothes is essential for comfortable all-weather all-year 
 - Leg and arm warmers
 - 3x Water Resistant cycling trousers
 
-![image](dangerousman.png)
-(A dangerous man.)
+{{< figure
+    src="dangerousman.png"
+    alt="Picture of a man wearing a helmet with a helmet camera that looks slightly silly"
+    caption="A dangerous man."
+>}}
 
 ## Security
 
