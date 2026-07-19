@@ -7,7 +7,6 @@ image: /mobilesetup3.jpg
 author: David Craddock
 ---
 
-![image](mobilesetup7.png)
 {{< figure
     src="mobilesetup7.png"
     alt="Picture of my e-bike next to a park bench, and my laptop out while I am working on it."
