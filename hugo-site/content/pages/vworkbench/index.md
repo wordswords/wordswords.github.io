@@ -7,7 +7,7 @@ url: /vworkbench/
 ---
 ![image](workbench.png)
 
-"vWorkbench" is my own personal Vim9-based development environment and writing environment that I'm trying to 'spin out' into an open source project that is stable enough, reusable enough and well-documented enough to be used by others.
+"vWorkbench" is my own personal [Vim9](https://vimhelp.org/)-based development environment and writing environment that I'm trying to 'spin out' into an open source project that is stable enough, reusable enough and well-documented enough to be used by others.
 
 [vWorkbench Repo](https://github.com/wordswords/vWorkbench.git) - this is the current version of my development environment that I use as much as possible, both in personal and work situations.
 
