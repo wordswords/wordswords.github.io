@@ -11,8 +11,6 @@ url: /my-writing
     caption="'Snowflakes'."
 >}}
 
-![image](published.jpg)
-
 I've always liked writing and have been doing it for a long time. I write a lot for work, and also have written a lot of creative writing.
 
 ### Work Essays and Articles
