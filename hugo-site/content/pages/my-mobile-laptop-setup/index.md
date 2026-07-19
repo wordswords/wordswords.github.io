@@ -1,7 +1,7 @@
 ---
 date: "2024-02-04T02:48:13+00:00"
 guid: https://davidcraddock.net/?page_id=4413
-title: My Mobile Laptop Setup
+title: My "Work From Anywhere" Setup
 url: /my-mobile-laptop-setup/
 image: /mobilesetup3.jpg
 author: David Craddock
