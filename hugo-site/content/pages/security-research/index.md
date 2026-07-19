@@ -12,7 +12,7 @@ To send a secure message to me:
 
 * I am currently familiarising myself with tools to implement cyber security solutions.
 
-* This is in preparation for my research project as part of the MSc Cyber Security masters I'm taking from the University of London via distance learning.
+* This is in preparation for my research project as part of the [MSc Cyber Security](https://www.london.ac.uk/study/courses/postgraduate/msc-cyber-security) masters I'm taking from the University of London via distance learning.
 
 * This research is strictly for informational purposes and I don't do anything criminal with it.
 
