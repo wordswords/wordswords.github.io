@@ -50,7 +50,7 @@ languages:
         - name: vWorkbench
           url: vworkbench/
           weight: 16
-        - name: Writing
+        - name: My Writing
           url: my-writing/
           weight: 17
         - name: Cyber Security
