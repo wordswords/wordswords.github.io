@@ -11,7 +11,7 @@ To send a secure message to me:
 {{< figure
     src="2600.jpg"
     alt="A picture of a 'hacker van' with a satellite dish, on the side displaying the logo of the 2600 Hacker Zine."
-    caption="2600."
+    caption="2600 hacker magazine."
 >}}
 
 * I am currently familiarising myself with tools to implement cyber security solutions.
