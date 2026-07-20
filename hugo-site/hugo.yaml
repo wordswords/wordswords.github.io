@@ -100,7 +100,7 @@ params:
 
   homeInfoParams:
     Content: >
-      👋 Welcome to my personal <a href="https://gohugo.io/">blog</a>. I am David, a technologist based near Manchester, UK. This blog has information on the hobbyist technical projects, and other 'side-quests', that I've been getting up to. It is mostly esoteric rambling, but I also put these things up there in the hope that they will help someone, and to improve my writing skills. I'd also be lying if I said I wasn't proud of some of what I've achieved in these areas :) <br/><br/>
+      👋 Welcome to my personal <a href="https://gohugo.io/">blog</a>. I am David, a <a href="https://en.wiktionary.org/wiki/technologist">technologist</a> based near Manchester, UK. This blog has information on the hobbyist technical projects, and other 'side-quests', that I've been getting up to. It is mostly esoteric rambling, but I also put these things up there in the hope that they will help someone, and to improve my writing skills. I'd also be lying if I said I wasn't proud of some of what I've achieved in these areas :) <br/><br/>
       If you need to contact me at any time, please <a href="mailto:3rp2mzocr@mozmail.com">use this email address</a>. Other facets of my online presence:<br/><br/>
       <ul>
         <li> 🎮 <a href="https://DavidCraddock.Games">DavidCraddock.Games - My Gaming Blog</a></li>
