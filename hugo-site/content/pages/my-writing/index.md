@@ -221,6 +221,8 @@ Even in academia and research on the cutting edge technical problems of our time
 
 It might be possible to progress with bad people skills, but it's going to be 100x as difficult. And overwhelmingly the statistical chances are, if you are reading this, then you are not good enough technically to succeed with bad people skills.
 
+---
+
 #### 'Training Resources for Software Engineers in Test/QA Engineers'
 
 This is an heavily opinionated guide to what I personally think is important for new SDETs/QA Engineers to learn and know. I have spent 17 years in the software industry, and have experience in nearly all areas of software engineering, including a large number of years as a 'pure' developer, several years experience as an exploratory tester, several years experience in devops, and experience managing testing teams and defining test strategies.
