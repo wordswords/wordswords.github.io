@@ -19,6 +19,8 @@ I'm working on a way to format and structure these properly within Hugo. For now
 
 * [Github](https://github.com/wordswords/dotfiles/tree/master/notes)
 
+---
+
 #### 'How to Get a Job - Supply/Demand Strategy'
 
 If you want to get a job and get paid, focus on acquiring skills that are 1) in demand and 2) under supply.
@@ -32,6 +34,8 @@ Learn tech skills that people find unpopular or 'uncool' but there is high deman
 Look at skills shortage lists. Look at lists that show the most 'in demand' areas where employers are struggling to find skilled candidates, such as cyber security, machine learning, test automation, devops/MLOps .. and so on.
 
 This is basic economic supply and demand theory, and is true today as it was when I learned it in high school over 20 years ago.
+
+---
 
 #### 'A Hiring Strategy to Reduce Bias'
 
@@ -54,6 +58,8 @@ Meanwhile, the software team is understaffed and having to work 120% because of 
 And people who are applying are getting frustrated when they're seeing the same role readvertised after they apply.
 
 Face it, you are looking for something that doesn't exist. You are looking for the mythical 'unicorn' developer, when what you need to do is to simply hire from the very decent candidate pool that you have available already.
+
+---
 
 #### 'DevTestOps and Jenkins'
 
@@ -86,6 +92,8 @@ There are a few tips that have helped me.
 * Always try and keep the versions of Jenkins, your test automation tool (such as Cypress) and any other major components at the latest stable version. This will ensure that your tests run as quickly as possible and as reliably as possible.
 
 If you do all the above, then your Jenkins jobs will be much more maintainable and your time spent maintaining them much less of a headache.
+
+---
 
 #### 'How to hold Meetings - A strategy for remote work'
 
@@ -125,6 +133,8 @@ Here is how I do meetings.
 * People should be allowed to get on with other work while listening in to the meeting. They should keep listening so they have an overview of what is happening and that if their opinion is requested, they can give it.
 * If lots of people are tuning out and getting on with other work, it is a sign that the meeting shouldn't have taken place in the first place, or at least those people tuning out shouldn't have been on the invite.
 
+---
+
 #### 'A Test Strategy for Microservices'
 
 There are two ways to test structured output data from microservices (such as in json or xml), and you should use both:
@@ -142,6 +152,8 @@ Now here is the clever bit - what these test results tell you:
 * If Test 1 passes and Test 2 fails - the data bits you are looking for aren't there but there has been no update to the structure of the data. Possibly there is a data problem with the query you're requesting.
 * If Test 1 passes and Test 2 passes - No update, data still there, no problem, all good.
 * If Test 1 fails and Test 2 fails - Likely there has been an update to the service that is feeding you data, AND THEY HAVEN'T RESPECTED THE BIT YOU CARE ABOUT. Major not good!
+
+---
 
 #### 'Skills Needed to Suitably Excel as a Software Engineer'
 
@@ -250,6 +262,8 @@ The closer you can get to knowing these skillsets, the better off you are in tod
 
 * But it might not for you. So take some time to figure out what type of learning method works for you. For some people, online text based courses really help. For others, YouTube videos. Some people simply don't really learn very well on their own and should seek a mentor to pair program with. It is very important to learn how you learn best, because although the information you need to know won't change, the style you best absorb it is completely individual to you.
 
+---
+
 ##### Resources for the Skills Required of a QA Engineer
 
 ###### Fundamental Computing Skill and Software Engineering skills
@@ -290,6 +304,8 @@ https://missing.csail.mit.edu/
 * Part of exploratory testing is the skill in writing up the bugs to contain as much useful information as possible to get them prioritised and fixed. This includes being able to replicate them exactly on the different test environments and having a basic understanding of how the code you are testing gets pulled into each release that gets used by the users of your product. Without that understanding you may not produce useful bug reports. The more information you can give the developers to fix bugs quicker, the happier they will be.
 * The more time you spend exploratory testing and finding bugs, the greater your understanding of the products you work on, becomes. As a QA engineer, you are often expected to be the subject matter expert on the product from a users perspective. The more exploratory testing and hands-on experience interacting with the product you can do, the more that will be the case. And when you have learned numerous products like this, the faster learning new products will become.
 * You will find it incredibly difficult trying to design effective automated tests without the knowledge of the product, and without the insight into testing that working in exploratory testing will give you. So there is no way to skip this fundamental skill.
+
+---
 
 #### 'On Books and Reading'
 
@@ -351,6 +367,8 @@ Finally, I really recommend writing reviews of your books and reading others rev
 
 To paraphrase George R. R. Martin - "That's what I do. I read books, and I know things."
 
+---
+
 #### 'Neurodiversity isn't as common as you might think'
 
 I wish there was a legal requirement for you to be diagnosed with a neurodivergence to term yourself 'neurodivergent'.
@@ -366,6 +384,7 @@ And yes it can be incredibly disabling in some areas, for some people. But the e
 
 But all that is even assuming you are neurodivergent in the first place. There are a lot of people claiming to be neurodivergent when they are not at all, and just using it as an excuse not to accept failure, and learn from it.
 
+---
 
 ### Poetry
 
@@ -391,6 +410,8 @@ Things in beauty are flights in freedom
 And nothing's true if all's forgotten.
 ```
 
+---
+
 #### 'Avalanche'
 
 ```
@@ -415,6 +436,8 @@ you tripped, then stumbled, and fell all around us.
 You never thought what damage you caused
 until you were still and silent, as now. And over.
 ```
+
+---
 
 #### 'Benefit Cheat'
 
@@ -447,6 +470,7 @@ this is not meant to be
 you can't prove anything
 NO! SOMEBODY HELP ME!
 ```
+---
 
 #### 'Ultava by Smetana'
 
