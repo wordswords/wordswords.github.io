@@ -46,7 +46,7 @@ I run Windows 11 on this, and use Ubuntu Linux WSL2 with a Kali Linux virtual ma
 - Presonus 1824i USB-c sound interface that is connected to the PC.
 
 {{< figure
-    src="desk3.png"
+    src="desk3.jpg"
     alt="Picture of my whole work from home office."
     caption="My Work From Home (WFH) Office."
 >}}
