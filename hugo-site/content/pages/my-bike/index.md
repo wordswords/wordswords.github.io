@@ -6,11 +6,10 @@ url: /my-bike/
 ---
 
 {{< figure
-    src="cargobikeandtrailer.png"
-    alt="Picture of my cargo bike and trailer, in a sideways view"
-    caption="My cargo bike and trailer."
+    src="badboy.jpg"
+    alt="Picture of my electric cargo bike with a 'Green Party' sticker on the back."
+    caption="My electric cargo bike."
 >}}
-
 
 I use this as a bike as a general-purpose car replacement, as well as volunteering and long-distance cycle challenges and trips. It has a maximum average power-assisted range of 60 miles on a single charge, assuming the lowest power-assist setting, up to 20 miles per charge for the highest power-assist setting.
 
@@ -54,6 +53,13 @@ I have configured it so that I can move large objects and cargo similar to a sma
 - Flag for visibility
 - Busch+Müller 331BS Secula Removable Battery-powered Permanent Rear Light for trailer
 - Bike trailer tires - Schwalbe Marathon Plus HS440 Rigid Tyre - 16 x 1.35, 35-349
+
+{{< figure
+    src="cargobikeandtrailer.png"
+    alt="Picture of my cargo bike and trailer, in a sideways view"
+    caption="My cargo bike and trailer."
+>}}
+
 
 ## Cargo/Hauling Gear
 
