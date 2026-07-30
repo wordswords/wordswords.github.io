@@ -15,7 +15,7 @@ It's true. 2 years ago I was a luddite, lost and alone.
 
 Today, however, I embrace vibe-coding like nothing ever before. And I WILL call it 'vibe-coding' and I know it sounds derrogatory, but you have to consider the fact that I learned how to program when the internet was not even 'a thing' - so I have honed my skills for decades. And I'm working on my fourth STEM degree.
 
-Therefore, and appropriately self-servingly, vibe-coders will never command the respect that I have for people who started coding in the pre-internet era and have deep academic computing understanding.
+Therefore, and appropriately self-servingly, new vibe-coders will never command the respect that I have for people who started coding in the pre-internet era and have deep academic computing understanding.
 
 Anyway, with that out of the way. I fully 100% embrace the vibe-coding promise, as it has shown consistent results in allowing me to deliver better working systems faster.
 
