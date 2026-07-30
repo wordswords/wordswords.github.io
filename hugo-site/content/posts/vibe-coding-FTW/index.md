@@ -1,6 +1,6 @@
 ---
 date: 2026-07-30T21:00:13+00:00
-title: Vibe Coding FTW
+title: Vibe-Coding FTW
 url: /vibe-coding-ftw/
 author: David Craddock
 ---
