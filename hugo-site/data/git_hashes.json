@@ -1,4 +1,9 @@
 {
-  "commit": "cdadf60",
-  "tag": ""
+    'theme':{
+      "commit": "6a18c0f29f66775dfeacfb3e662d1f7f69687c82",
+      "tag": "",
+    }, 'site':{
+      "commit": "03a50afec3d06a9dceabe431b933fdd85054f704",
+      "tag": "",
+    },
 }
