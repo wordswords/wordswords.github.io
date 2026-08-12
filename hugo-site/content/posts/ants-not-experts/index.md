@@ -8,8 +8,8 @@ author: David Craddock
 
 {{< figure
     src="ants.png"
-    alt="A picture of an impressive looking ant holding a leaf much bigger than them."
-    caption="An impressive looking ant."
+    alt="A picture of an impressive-looking ant holding a leaf much bigger than them."
+    caption="An impressive-looking ant."
 >}}
 
 
