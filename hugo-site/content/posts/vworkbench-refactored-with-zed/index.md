@@ -22,12 +22,12 @@ Once I have a reliable automated CI/CD dockerized deploy and test, I will be in 
 
 It is already looking much better and much less of a hassle to work with and run.
 
-If you haven't already, [check it out](https://davidcraddock.net/vWorkbench) - vWorkbench is the customised combination of VIM9 editor plus ZSH shell plus a million other customisations. It currently runs only on Almalinux, but will run on 'bare' Almalinux as well as Windows 11 WSL2.
+If you haven't already, [check it out](https://davidcraddock.net/vWorkbench) - vWorkbench my the customised combination of VIM9 editor plus ZSH shell plus a million other customisations. It currently runs only on Almalinux, but will run on 'bare' Almalinux as well as Windows 11 WSL2.
 
 
 {{< figure
-    src="workbench.png"
-    alt="A picture of a mobile woodworkers workbench in an attempt to make an analogy between my vworkbench and theirs."
-    caption="Another mobile workbench."
+    src="zed.png"
+    alt="The Zed Editor logo."
+    caption="Zed's not Dead, baby."
 >}}
 
