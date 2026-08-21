@@ -4,6 +4,7 @@ title:
 url: /eac3-transcode-script
 image: /$2
 author: David Craddock
+title: EAC3 Transcode Script
 ---
 
 {{< figure
