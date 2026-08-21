@@ -6,9 +6,9 @@ url: /my-work-computer/
 
 ---
 {{< figure
-    src="desk1.png"
-    alt="Picture of the front view of my work from home desk."
-    caption="My Work From Home (WFH) Desk."
+    src="fullroomview.jpg"
+    alt="Picture of the my work from home office from the door. It is a small but very impressive office with a lot of gadgets."
+    caption="My Work From Home (WFH) Office."
 >}}
 
 This is my work from home setup. I work from home every work day. I use the following equipment:
