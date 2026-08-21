@@ -1,6 +1,5 @@
 ---
 date: 2026-08-21T13:12:13+00:00
-title:
 url: /eac3-transcode-script
 image: /$2
 author: David Craddock
