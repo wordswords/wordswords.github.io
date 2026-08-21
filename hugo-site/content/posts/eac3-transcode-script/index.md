@@ -25,5 +25,5 @@ So that's added as well - two new streams, one for W11, one for my older DTS 5.1
 
 It is written in Bash ('Clean Code'd Bash) with a full test suite of around 100 tests, and runs on most Linux servers that have ffmpeg installed.
 
-[https://github.com/wordswords/eac3-transcode-script.git](https://github.com/wordswords/eac-transcode-script.git)
+[https://github.com/wordswords/eac3-transcode-script.git](https://github.com/wordswords/eac3-transcode-script.git)
 
