@@ -7,7 +7,7 @@ author: David Craddock
 ---
 
 {{< figure
-    src="emachine.png"
+    src="emachine.jpg"
     alt="Picture of an early 90s IBM PC Clone with the equivalent power of an early Pentium - the 'Emachine' - with a sticker on it saying 'This machine will never be obsolete and that you can upgrade your computer after 2 years for only $100'"
     caption="The 90's Emachine with a whole 64MB of RAM!"
 >}}
