@@ -21,7 +21,7 @@ I have been keeping a blog of some form or other since the [Geocities](https://f
 
 Having worked in customising blog engines professionally, and developing blogs for individuals using platforms such as [Wordpress](https://wordpress.com), from around 2006-2010, I have a long-standing attachment to blogging software and the medium.
 
-I totally realise that not many people consume blog content, compared to the number that used to. Most of the entire traffic of the internet is focused on social media giants such as Facebook, Twitter et al.
+I do realise that not many people consume blog content, compared to the number that used to. Most of the entire traffic of the internet is focused on social media giants such as Facebook, Twitter et al.
 
 But as someone who has always been interested in writing, social media just doesn't 'cut it' for me. I want to be able to write in long-form, on my own terms, without having to compete with algorithms deciding that some young 'well-endowed' woman doing ridiculously absurd things on video for a few seconds is somehow more 'relevant' than reading my writing.... even if sometimes, maybe it is.
 
@@ -37,7 +37,7 @@ Cloudflare has a large number of excellent - and completely free - features that
 
 ## Accessibility updates on my blogs
 
-Lately, I have been working using Gen-AI assisted software development to make my [standard custom Hugo Theme](https://github.com/wordswords/PaperMod-dpc) much more accessible to users that require using a screen reader. I feel that I should have done this many years ago, but unfortunately I didn't prioritise it. Given my stance on disability rights, this is a pretty big oversight, which thankfully I've nearly finished addressing.
+Lately, I have been working using Gen-AI assisted software development to make my [standard custom Hugo Theme](https://github.com/wordswords/PaperMod-dpc) much more accessible to users that require using a screen reader. I feel that I should have addressed this many years ago, but unfortunately I didn't prioritise it. Given my stance on disability rights, this is a pretty big oversight, which thankfully I've nearly finished fixing.
 
 
 
