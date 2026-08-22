@@ -1,5 +1,5 @@
 ---
-date: 2024-02-04T02:48:13+00:00
+date: 2026-08-22T02:04:13+00:00
 title: Things that didn't age well.
 url: /things-that-didnt-age-well
 image: /emachine.png
