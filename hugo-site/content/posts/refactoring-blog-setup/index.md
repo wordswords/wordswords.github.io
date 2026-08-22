@@ -27,7 +27,7 @@ But as someone who has always been interested in writing, social media just does
 
 ## My Blog Empire
 
-Anyway. I currently [run](https://davidcraddock.games) [a](https://davidcraddockaudio.com) [number](https://davidcraddockreads.com) [of](https://davidcraddocktutor.com) blogs based on [Hugo, the static site generator blogging engine](https://github.com/gohugoio/hugo). Static site generators are the best for cyber security and affordability - static sites cost almost nothing to host and there are several providers that will host your site for free, and the potential attack surface for a statically generated and served site is almost zero.
+Anyway. I currently [run](https://davidcraddock.games) [a](https://davidcraddockaudio.com) [number](https://davidcraddockreads.com) [of](https://davidcraddocktutor.com) [blogs](https://davidcraddock.net) based on [Hugo, the static site generator blogging engine](https://github.com/gohugoio/hugo). Static site generators are the best for cyber security and affordability - static sites cost almost nothing to host and there are several providers that will host your site for free, and the potential attack surface for a statically generated and served site is almost zero.
 
 I use [this Hugo theme](https://github.com/wordswords/PaperMod-dpc) that I have heavily customised over several years. I also have developed a 'writing workflow' involving a spelling checking, linting, and deployment process which I'm in the process of fine-tuning and rolling out across all my blogs. Using this workflow I can write and publish content on my blogs very quickly.
 
