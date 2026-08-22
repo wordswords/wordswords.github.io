@@ -31,7 +31,9 @@ Anyway. I currently [run](https://davidcraddock.games) [a](https://davidcraddock
 
 I use [this Hugo theme](https://github.com/wordswords/PaperMod-dpc) that I have heavily customised over several years. I also have developed a 'writing workflow' involving a spelling checking, linting, and deployment process which I'm in the process of fine-tuning and rolling out across all my blogs. Using this workflow I can write and publish content on my blogs very quickly.
 
-Because I use [Github's](https://github.com) free static site hosting, the cost to me to put up a new blog is limited purely to the domain name registration on [Cloudflare](https://cloudflare.com), and my time spent writing - I do not pay for hosting, and most customisations that I would want to make are already part of the framework and theme I am using, which I can easily deploy for a new blog. Cloudflare has a large number of excellent free features that can be useful for all sorts of things, including blocking AI-based site scraping, and keeping your sites and domain names secure to a very high standard.
+Because I use [Github's](https://github.com) free static site hosting, the cost to me to put up a new blog is limited purely to the domain name registration on [Cloudflare](https://cloudflare.com), and my time spent writing - I do not pay for hosting, and most customisations that I would want to make are already part of the framework and theme I am using, which I can easily deploy for a new blog.
+
+Cloudflare has a large number of excellent - and completely free - features that can be useful for all sorts of things, including blocking AI-based site scraping, and keeping your sites and domain names secure to a very high standard.
 
 ## Accessibility updates on my blogs
 
