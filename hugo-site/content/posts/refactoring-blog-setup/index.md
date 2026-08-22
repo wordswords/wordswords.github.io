@@ -9,7 +9,7 @@ author: David Craddock
 {{< figure
     src="blog.jpg"
     alt="A picture of some text on a book page with the word 'Blog' accented."
-    caption="Blogs have been around for a very long time. Some people thing that is a good thing."
+    caption="Blogs have been around for a very long time. Some people would say that is a good thing."
 >}}
 
 
