@@ -9,7 +9,7 @@ author: David Craddock
 I have just had a thought about a subject I want to explore:
 
 "Test Automation-Directed Gen-AI Assisted Software Development":
-"A process and workflow for rapid single-engineer AI-assisted development of software while keeping control over quality, alignment and direction."
+***A process and workflow for rapid single-engineer AI-assisted development of software while keeping control over quality, alignment and direction.*** aka "TIDUS".
 
 Yes. I know most developers thought/wished that test automation was 'dead and buried'. But it's really NOT, and it's never been more useful than it is today in the world of GenAI coding agents that hallucinate and cannot be 100% trusted to deliver what is asked for, because of alignment problems, training problems, overwhelming incentives to take unhelpful 'short cuts', et al.
 
