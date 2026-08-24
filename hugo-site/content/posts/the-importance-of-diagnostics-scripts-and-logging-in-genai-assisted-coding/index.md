@@ -1,7 +1,7 @@
 ---
 date: 2026-02-24T18:26:13+00:00
 title: The Importance of Diagnostics and Logging in Gen-AI Assisted Development
-url: /the-importance-of-diagnostics-and-logging-in-genai-assisted-development/
+url: /the-importance-of-diagnostics-scripts-and-logging-in-genai-assisted-coding
 author: David Craddock
 ---
 
