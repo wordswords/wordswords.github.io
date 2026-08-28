@@ -1,6 +1,6 @@
 ---
 date: 2026-08-28T02:48:13+00:00
-title: 'Perfectionism' and Excellence
+title: Perfectionism and Excellence
 url: /PerfectionismAndExcellence/
 image: /$2
 author: David Craddock
