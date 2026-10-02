@@ -1,5 +1,5 @@
 ---
-date: 2026-10-02T23:22:13+00:00
+date: "2026-10-02T23:22:13+00:00"
 title: Neurodiverse Adaptions to our Home
 url: /NeuroDiverseAdaptionsToHome/
 image: /$2
