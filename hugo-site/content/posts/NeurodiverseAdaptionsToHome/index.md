@@ -1,10 +1,16 @@
 ---
-date: 2026-02-10T23:22:13+00:00
+date: 2026-10-02T23:22:13+00:00
 title: Neurodiverse Adaptions to our Home
 url: /NeuroDiverseAdaptionsToHome/
 image: /$2
 author: David Craddock
 ---
+
+{{< figure
+    src="neurospicy.png"
+    alt="Picture of a 'neurospicy' pin badge against a pink background."
+    caption="Neurospicy!"
+>}}
 
 Because both my wife and I are neurodiverse, we have researched and invested heavily into assistive technology to help us with our 'quirky' natures:
 
