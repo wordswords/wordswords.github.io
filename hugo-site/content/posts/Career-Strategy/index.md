@@ -2,12 +2,12 @@
 date: 2026-10-04T03:26:13+00:00
 title: Technologist Career Strategy
 url: /technologist-career-strategy/
-image: /$2
+image: /roadahead.jpg
 author: David Craddock
 ---
 
 {{< figure
-    src="roadahead.png"
+    src="roadahead.jpg"
     alt="A picture of a road stretching out into the distance."
     caption="The road ahead"
 >}}
