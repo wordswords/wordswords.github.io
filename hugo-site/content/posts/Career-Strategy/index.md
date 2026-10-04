@@ -9,7 +9,7 @@ author: David Craddock
 {{< figure
     src="roadahead.jpg"
     alt="A picture of a road stretching out into the distance."
-    caption="The road ahead"
+    caption="The road ahead."
 >}}
 
 
