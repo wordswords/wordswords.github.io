@@ -27,7 +27,7 @@ But ultimately I'm a technologist, and yes - many people may earn more than me w
 
 LinkedIn is full of 'people skills heavy' marketeers and people influencers, and that is fine and good, but honestly a lot of the more technically competent (and highly employable) people I've worked with avoid LinkedIn like the plague - they just have no interest or need for it.
 
-And ultimately, learning technical skills is what I enjoy, what I do in my spare time anyway, and what I'd do if it didn't have to worry about a career at all. And any technical skills that I learn on the job or for my career, are easily transferable into my own personal/hobby projects so I benefit from them twofold.
+At the end of the day, learning technical skills is what I enjoy, what I do in my spare time anyway, and what I'd do if I didn't have to worry about a career at all. And any technical skills that I learn on the job or for my career, are easily transferable into my own personal/hobby projects so I benefit from them twofold.
 
 Yes - those technical skills MAY radically change - at the moment I'm upskilling on machine learning/AI and cyber security - but they are still ultimately 'technical' skills, just different ones from the ones that have been in demand before.
 
