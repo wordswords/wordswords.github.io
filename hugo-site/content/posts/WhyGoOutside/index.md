@@ -8,7 +8,7 @@ author: David Craddock
 
 {{< figure
     src="outside.jpg"
-    alt="A picture of a character from the IT crowd stating 'I don't like going outside. The graphics are amazing, but the storyline is terrible, and the NPCs are extremely aggressive."
+    alt="A picture of a character from the IT crowd stating 'I don't like going outside. The graphics are amazing, but the storyline is terrible, and the NPCs are extremely aggressive.'"
     caption="Put yourself in his position."
 >}}
 
