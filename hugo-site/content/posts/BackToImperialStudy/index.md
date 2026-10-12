@@ -16,7 +16,7 @@ In around July 2026, a REALLY bad thing happened.
 
 My home network got hacked.
 
-I had to take extensive recovery steps, including securing and changing all passwords, and restoring 18TB of backup archives from Amazon AWS Deep Glacier (which cost me approx £2000).
+I had to take extensive recovery steps, including securing and changing all passwords, COMPLETELY rebuilding the home server and network, and restoring 18TB of backup archives from Amazon AWS Deep Glacier (which cost me approx £2000).
 
 This took absolutely ages!
 
