@@ -15,7 +15,7 @@ author: David Craddock
 
 Things change FAST in the vibe-coding world.
 
-Last time I posted here, I was using the ['Zed' vibe coding editor](https://zed.dev/). This was only a month or so ago!
+Last time I posted here on the subject, I was using the ['Zed' vibe coding editor](https://zed.dev/). This was only a month or so ago!
 
 ## Agent Harness
 
