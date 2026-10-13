@@ -1,8 +1,8 @@
 ---
 date: 2026-10-13T15:29:13+00:00
 title: Current Vibe-Coding Strategy Oct 2026
-url: /$1/
-image: /$2
+url: /CurrentVibeCodingStrategyOct2026/
+image: /vibe.gif
 author: David Craddock
 ---
 
