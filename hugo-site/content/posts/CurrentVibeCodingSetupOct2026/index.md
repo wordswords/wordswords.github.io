@@ -23,7 +23,7 @@ Today, my current setup is using the ['Pi' commandline agentic harness](https://
 
 ## Model Choice
 
-Deepseek is currently the 'best value' coding model for me, I constantly check which is the current 'best value' with a view to switching to it, but it's been Deepseek for a while now. I am a poor student and cannot afford Claude.
+Deepseek is currently the 'best value' coding model for me, I constantly check which is the current 'best value' model with a view to switching to it, but it's been Deepseek for a while now. I am a poor student and cannot afford Claude.
 
 ## Process
 
