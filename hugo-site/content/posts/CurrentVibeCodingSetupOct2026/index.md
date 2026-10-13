@@ -39,9 +39,9 @@ I have 'steered away' from projects with a commercial focus.. because damn it.. 
 
 Also I'm currently a student at [Imperial College London](https://www.imperial.ac.uk) which takes up most of my 'serious thinking time'.
 
-The projects that I vibe-code therefore are usually not particularly ambitious, and are small self-contained scripts or applications that I can 'chain together' on the commandline of my Linux server, in line with the '*NIX philosophy*'.
+The projects that I vibe-code therefore are usually not particularly ambitious, and are small self-contained scripts or applications that I can 'chain together' on the commandline of my Linux server, in line with the '[*NIX philosophy*](https://www.both.org/?p=3526)'.
 
-As a result they get built fast, quickly and accurately.
+As a result they get built fast, easily and accurately.
 
 ## Choice of Language
 
@@ -49,7 +49,7 @@ Anything I know quite well. Currently that includes Bash scripting (yes it is en
 
 ## Scale
 
-I haven't really focused too much on building a 'large' vibe-coded project yet. I assume that when I do, I will have to rethink the process and assumptions and possibly also the tools I am using.
+I haven't really focused too much on building a 'large' vibe-coded project yet, plus everything that I do is 'greenfield'. I assume that when these conditions change, and I work in a more traditional 'software engineering' way, I will have to rethink the process and assumptions and possibly also the tools I am using.
 
 I still think that building a test framework and iterating to match that is THE BEST way to vibe code, and almost definitely becomes more and more vital the more complex your project is.
 
