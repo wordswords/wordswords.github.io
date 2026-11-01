@@ -1,5 +1,5 @@
 ---
-date: 2026-01-11T04:41:13+00:00
+date: 2026-11-01T04:41:13+00:00
 title: Cycle Challenge Oct 2026 is Complete!
 url: /CycleChallengeOct2026/
 image: /bikebridge.jpg
