@@ -1,3 +1,7 @@
 hugo-site/public/**
-
+default-post-template.md
+github-repo.sh
+new-post.zsh
+publish-post.zsh
+test-blog.zsh
 .aider*
