@@ -10,5 +10,6 @@ git add ./content/
 git commit -m "Latest hugo update" || echo ''
 git push origin main
 ./themes/PaperMod-dpc/scripts/fetch-git-hashes.sh
+git add ./static/
 git commit -m "Latest hash update" || echo ''
 git push origin main
