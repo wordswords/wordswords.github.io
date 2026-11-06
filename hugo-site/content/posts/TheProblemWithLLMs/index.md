@@ -2,7 +2,7 @@
 date: 2026-11-06T13:07:13+00:00
 title: The Problem with LLMs
 url: /the-problem-with-LLMs/
-image: /$2
+image: /answers.jpg
 author: David Craddock
 ---
 
