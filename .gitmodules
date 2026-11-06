@@ -3,4 +3,4 @@
 	url = git@github.com:wordswords/PaperMod-dpc.git
 [submodule "hugo-site/buildscripts"]
 	path = hugo-site/buildscripts
-	url = https://github.com/wordswords/PaperMod-dpc-buildscripts
+	url = git@github.com:wordswords/PaperMod-dpc-buildscripts
