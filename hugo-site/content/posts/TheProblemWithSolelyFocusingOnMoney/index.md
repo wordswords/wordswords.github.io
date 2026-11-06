@@ -1,7 +1,7 @@
 ---
 date: 2026-11-05T16:55:00+00:00
 title: The Problem with Solely Focusing on Money
-url: /the-proble-with-solely-focusing-on-money/
+url: /the-problem-with-solely-focusing-on-money/
 image: /scrooge.png
 author: David Craddock
 ---
