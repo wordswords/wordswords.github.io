@@ -2,7 +2,7 @@
 date: 2026-11-09T15:23:18+00:00
 title: Alternative Backup Situation Implemented
 url: /BackupSituationResolved/
-image: /$2
+image: /backup.png
 author: David Craddock
 ---
 
