@@ -26,6 +26,8 @@ Hiring managers have a certain 'person' in mind.. for mid.. they look at late 20
 
 - They will tell you you will 'get bored' - IMAGINE the arrogance of a hiring manager thinking that THEY know what will make you bored better than someone who has 20+ years experience in the industry! Just complete BS.
 
+- They will tell you they are concerned that 'you haven't kept your skills up to date' - well, WHY are they concerned about this, when you will be assessed on the skills needed for the job as part of the technical interview process?? It is simply NOT true that people become 'more set in their ways' as they age - after 60 maybe, but not during their working life! Many older people keep a 'learning mindset' and have greater neuroplasticity and desire to learn than younger engineers! So this is a bias, a prejudice and the scientific evidence simply does not support it.
+
 - They are really concerned that they might hire someone that will 'outshine the master' and challenge THEM legitimately on things they do not know! But that is a massive presumption - not everyone is interested in doing that, some people just want a normal job, to get their head down and stay in their lane!
 
 - They are really concerned about the power dynamics of managing someone older than them, especially because they typically have had zero management training, and honestly? they are probably not a 'natural' manager in the first place, having been promoted usually from a purely technical role. This objection is simply because they are poor managers and do not understand the value of hiring people with more experience than them.
