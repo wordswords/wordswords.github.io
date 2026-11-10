@@ -9,7 +9,7 @@ author: David Craddock
 {{< figure
     src="wizard.png"
     alt="A cartoon picture of a Linux greybeard wizard, impressive yet friendly."
-    caption="Greybeards need work too!"
+    caption="Greybeards need work too."
 >}}
 
 It's annoying that.. once you've reached 'Principal Engineer' level.. there is no going back.
@@ -41,6 +41,7 @@ But where does that leave you, with more transferable knowledge, experience and 
 NOWHERE.
 
 How is this fair? It completely isn't!
+
 How does this make any sense? It completely doesn't!
 
 But we still all have to live with it.
