@@ -12,13 +12,15 @@ author: David Craddock
     caption="Greybeards need work too!"
 >}}
 
-It's annoying that.. once you've reached Principal engineer level.. there is no going back.
+It's annoying that.. once you've reached 'Principal Engineer' level.. there is no going back.
 
 Hiring managers simply won't hire you for senior or 'mid' level roles, thinking you are over-qualified!
 
 Even though you may well apply to those, and they may well be the best fit for you, because you realise that the tech world is so specialised, that you may be a 'mid' in some areas, and a 'principal' in others.
 
-Also, hiring managers have a certain 'person' in mind.. for mid.. they look at late 20-somethings at maximum.. they want to hire someone with 'youthful energy' who wants to be given the chance to 'prove themselves' and work especially hard.
+Even though hiring managers may WELL be getting a 'bargain' - just as any other profession would recognise - imagine hiring a Consultant Medical Doctor for a Junior Doctors wage! What medical hiring manager WOULDN'T jump at that?
+
+Hiring managers have a certain 'person' in mind.. for mid.. they look at late 20-somethings at maximum.. they want to hire someone with 'youthful energy' who wants to be given the chance to 'prove themselves' and work especially hard.
 
 - They will tell you you're 'too expensive' - this is BS, because if you don't pitch yourself competitively and within the salary range of the 'mid' engineer you're applying for, you won't get the job!
 
