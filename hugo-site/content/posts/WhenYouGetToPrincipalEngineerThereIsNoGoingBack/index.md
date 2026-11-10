@@ -2,7 +2,7 @@
 date: 2026-11-10T10:27:53+00:00
 title: Once you get to 'Principal Engineer' level.. there is no 'going back'.
 url: /OnceYouGetToPrincipalEngineerThereIsNoGoingBack/
-image: /$2
+image: /wizard.png
 author: David Craddock
 ---
 
