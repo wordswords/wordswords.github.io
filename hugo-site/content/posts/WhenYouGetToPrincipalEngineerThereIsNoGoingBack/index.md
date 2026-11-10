@@ -28,7 +28,7 @@ Also, hiring managers have a certain 'person' in mind.. for mid.. they look at l
 
 - They are really concerned about the power dynamics of managing someone older than them, especially because they typically have had zero management training, and honestly? they are probably not a 'natural' manager in the first place, having been promoted usually from a purely technical role. This objection is simply because they are poor managers and do not understand the value of hiring people with more experience than them.
 
-- They are really concerned that you will not 'fit in' to the team; well, that is only because the team is about the most un-diverse work environment you will ever see in any industry! Age diversity is a thing, and should be a measured metric! The more diverse the team is, the more complimentary strengths a team has - but because they have had no management training the do not understand this!
+- They are really concerned that you will not 'fit in' to the team; well, that is only because the team is about the most un-diverse work environment you will ever see in any industry! Age diversity is a thing, and should be a measured metric! The more diverse the team is, the more complimentary strengths a team has - but because they have had no management training they do not understand this!
 
 But where does that leave you, with more transferable knowledge, experience and a better idea than both hiring manager and mid engineer where you might best fit into an organisation?
 
